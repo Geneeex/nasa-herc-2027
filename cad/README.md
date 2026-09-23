@@ -1,10 +1,29 @@
-# Concept CAD and task visualisation
+# Rover figures, concept CAD and task visualisation
 
-We use this model to explain the proposed rover and task sequence. The site layout and camera results are illustrative. They do not prove radio reception, autonomous execution, sensor accuracy, climbing ability or structural strength.
+The mechanical figures show the proposed rover's form and annotated dimensions. The task previews explain an illustrative mission sequence. These materials document design intent; they do not establish physical performance or a completed hardware test.
+
+## Rover views and dimensions
+
+[![Oblique concept rendering of the four-wheel rover, suspension, camera mast and antenna](figures/rover-oblique.jpg)](figures/rover-oblique.jpg)
+
+The [mechanical figure gallery](figures/README.md) contains all eight supplied images at their original resolution: four unannotated views and four dimensioned figures. The source images are preserved unchanged.
+
+| View | What to inspect |
+| --- | --- |
+| [Front view](figures/rover-front.jpg) and [width annotation](figures/rover-width.png) | The frontal layout and the annotated 630 mm overall width. |
+| [Side view](figures/rover-side.jpg) and [length/height annotations](figures/rover-length-height.png) | The annotated 655 mm length and 421 mm ground-to-camera-top height; the antenna extends above this height reference. |
+| [Wheel and suspension](figures/wheel-suspension.jpg) and [wheel-width annotation](figures/wheel-width.png) | The wheel module, spring arrangement and annotated 90 mm wheel width. |
+| [Wheel dimensions](figures/wheel-dimensions.png) | The annotated 215 mm overall diameter, 188 mm rim outer diameter and 13.5 mm radial span. |
+
+The wheel figure labels the last quantity as tyre radial thickness including tread. Here, `(215 − 188) / 2 = 13.5 mm` describes the **rim-lip-to-tread span**, not the minimum printed wall thickness. Likewise, the 421 mm annotation is **camera-top height**, not the full antenna-inclusive envelope. See the [design baseline](../docs/design-baseline.md) for the dimensions and remaining verification work.
+
+These raster figures do not supply editable CAD or establish the geometry of the separately referenced native models. The saved Blender check history below retains its original scope.
+
+## Task-scene previews
 
 ![Illustrative task-site layout](previews/01-Task-site.png)
 
-## Preview figures
+The site layout and camera results are illustrative. They do not prove radio reception, autonomous execution, sensor accuracy, climbing ability or structural strength.
 
 - [Target geometry](previews/02-Target-dimensions.png)
 - [Image capture](previews/03-Rover-image-capture.png)

@@ -8,7 +8,7 @@ def files():
  return sorted(p for p in ROOT.rglob('*') if p.is_file() and not any(x in {'.git','__pycache__','.venv'} for x in p.relative_to(ROOT).parts) and p.suffix not in {'.pyc','.log'} and p.name!='manifest.json')
 def digest(p):
  data=p.read_bytes()
- if p.suffix in TEXT or p.name in {'.gitignore','.gitattributes'}:
+ if p.suffix in TEXT or p.name in {'.gitignore','.gitattributes','LICENSE'}:
   return hashlib.sha256(data.replace(b'\r\n',b'\n')).hexdigest(),'text-lf'
  return hashlib.sha256(data).hexdigest(),'binary'
 def audit():

@@ -4,11 +4,11 @@
 
 **A private engineering workspace for our NASA Human Exploration Rover Challenge project.**
 
-[Project guide](docs/project-guide.md) · [Design baseline](docs/design-baseline.md) · [Calculations](calculations/README.md) · [Test plan](testing/README.md) · [Open items](docs/open-items.md)
+[Project guide](docs/project-guide.md) · [Design baseline](docs/design-baseline.md) · [Rover figures](cad/figures/README.md) · [Calculations](calculations/README.md) · [Test plan](testing/README.md) · [Open items](docs/open-items.md)
 
-<img src="cad/previews/03-Rover-image-capture.png" width="1000" alt="Concept rendering of the four-wheel rover, camera mast and task site">
+<a href="cad/figures/rover-oblique.jpg"><img src="cad/figures/rover-oblique.jpg" width="1000" alt="Three-quarter design view of the rover with its camera mast, antenna, four wheels and suspension"></a>
 
-*Concept visualisation from the supplied design package. Rendered imagery is not a photograph of a completed hardware test.*
+*Our rover design, shown in the supplied three-quarter view. [Explore all eight original figures](cad/figures/README.md).*
 
 </div>
 
@@ -88,6 +88,25 @@ All values below are **design inputs or calculations**, not measured rover perfo
 
 The energy sum is 79.92 nominal Wh, but the batteries do not form a shared supply or establish runtime. The mass work traces **64 historical component rows** and exposes which assumptions need replacement. [Calculation results](calculations/results.md) show the formulas and reconciliation; [inputs](calculations/inputs.json) keep the unverified current mass as `null`.
 
+## Rover design gallery
+
+| Front view | Side profile | Wheel module |
+|:---:|:---:|:---:|
+| [![Front rover view](cad/figures/rover-front.jpg)](cad/figures/rover-front.jpg) | [![Side rover view](cad/figures/rover-side.jpg)](cad/figures/rover-side.jpg) | [![Wheel and suspension close-up](cad/figures/wheel-suspension.jpg)](cad/figures/wheel-suspension.jpg) |
+| Wheel stance and front layout | Body, camera mast and antenna | Arm, pivot and spring detail |
+
+### Dimensions in the drawings
+
+| Rover width — **630 mm** | Length — **655 mm** · Camera-top height — **421 mm** |
+|:---:|:---:|
+| [![Front drawing labelled 630 mm wide](cad/figures/rover-width.png)](cad/figures/rover-width.png) | [![Side drawing labelled 655 mm long and 421 mm high to the camera top, excluding the antenna](cad/figures/rover-length-height.png)](cad/figures/rover-length-height.png) |
+| **Wheel width — 90 mm** | **Wheel diameter — 215 mm · Rim diameter — 188 mm** |
+| [![Wheel module drawing labelled 90 mm wheel width](cad/figures/wheel-width.png)](cad/figures/wheel-width.png) | [![Wheel drawing with overall diameter, rim diameter and radial span annotations](cad/figures/wheel-dimensions.png)](cad/figures/wheel-dimensions.png) |
+
+Select any image for the original full-resolution file. The [figure gallery](cad/figures/README.md) provides individual captions, millimetre/inch values and a source index for all eight images.
+
+The **421 mm height excludes the antenna**. The wheel drawing's **13.5 mm** annotation is the rim-to-tread radial span, **not minimum printed tyre wall thickness**. These are supplied design illustrations; finished dimensions and mechanical performance still need physical verification.
+
 ## Run it locally
 
 Use **Python 3.12** to match the GitHub workflow. The calculations and package checks need only the standard library.
@@ -106,7 +125,7 @@ Optional diagram rebuilding uses [requirements-diagrams.txt](requirements-diagra
 
 The [GitHub Actions workflow](https://github.com/SABIKGIT/nasa-herc-2027/actions/workflows/checks.yml) runs the calculation tests, regenerates their reports and checks file integrity and links. See [verification records](docs/verification-record.md) for the scope of recorded evidence.
 
-## Explore the design visually
+## Task-scene previews
 
 | Task layout | Example saved results |
 |:---:|:---:|
@@ -118,6 +137,7 @@ The three example targets are placed at **20, 35 and 48 ft** from the start mark
 <summary><strong>More previews and architecture diagrams</strong></summary>
 
 - [Target dimensions](cad/previews/02-Target-dimensions.png)
+- [Rover image-capture scene](cad/previews/03-Rover-image-capture.png)
 - [Distance measurement](cad/previews/04-Distance-measurement.png)
 - [Red, blue and unfiltered simulation captures](cad/simulation/)
 - [All three subsystem diagrams and their editable sources](diagrams/README.md)
@@ -158,6 +178,7 @@ These are internal planning dates, not completed tests or independently confirme
 | `calculations/` | Executable arithmetic, inputs and generated reports |
 | `data/` | Procurement tables, historical mass ledger and source provenance |
 | `diagrams/` | Architecture PNGs, editable HTML and layout data |
+| `cad/figures/` | Eight original rover views and dimensioned drawings, with captions and provenance |
 | `cad/` | Concept previews, simulated captures and scene-check records |
 | `testing/` | Procedures, acceptance matrix, open criteria and blank forms |
 | `tests/`, `tools/` | Unit tests, package verification and diagram/scene utilities |
@@ -167,4 +188,4 @@ These are internal planning dates, not completed tests or independently confirme
 
 Maintained by **Sabik Bin Sultan** for the Team Bangladesh project. Follow [CONTRIBUTING.md](CONTRIBUTING.md) when updating assumptions, sources or evidence, and [UPLOAD.md](UPLOAD.md) for private-repository and future CAD-release maintenance.
 
-The archive retains its existing attribution and reuse status. No new license is granted by this upload, and no NASA endorsement, acceptance or completed compliance inspection is implied.
+Original software code listed in [LICENSING.md](LICENSING.md) is licensed under the [MIT License](LICENSE), copyright (c) 2026 **Sabik Bin Sultan**. Research and design documents, CAD, figures, diagrams, data and other excluded materials retain their existing rights. The repository remains private. No NASA endorsement, acceptance or completed compliance inspection is implied.

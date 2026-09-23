@@ -35,4 +35,4 @@ When it is provided, verify its assets against [cad/release-assets.json](cad/rel
 
 ## Reuse terms
 
-No new license grant has been made on the team's behalf. Existing authorship and third-party terms remain unchanged. Private repository access does not itself grant redistribution rights.
+The original software code listed in [LICENSING.md](LICENSING.md) is covered by the [MIT License](LICENSE), copyright (c) 2026 **Sabik Bin Sultan**. This grant does not cover research and design documents, CAD, figures, photographs, diagrams, data or other excluded materials. Existing attribution, coauthor rights and third-party terms remain unchanged. Keep the repository private; access does not expand the licensing scope or grant additional redistribution rights for excluded materials.

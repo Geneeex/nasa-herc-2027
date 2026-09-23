@@ -5,8 +5,8 @@
   "files": [
     {
       "path": ".gitattributes",
-      "bytes": 146,
-      "sha256": "9082c22f2b8aa878a1cc7cddae244282dad6e98c1f51ecbc7481f84233e312f0",
+      "bytes": 190,
+      "sha256": "b955838841e15014aa77dd9930f151f727595b93664649b9a3d371db0e26e203",
       "hash_mode": "text-lf"
     },
     {
@@ -26,6 +26,66 @@
       "bytes": 3799,
       "sha256": "4f20793b6b02f5d3e0f900e1a983576d468f90454079273ecf5dec9deb8513a5",
       "hash_mode": "text-lf"
+    },
+    {
+      "path": "cad/figures/figure-index.json",
+      "bytes": 3273,
+      "sha256": "d2b90475be071e33bb7f31a5a13f5115274a4ed1204c1fd8d896efdd2858118d",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "cad/figures/README.md",
+      "bytes": 4249,
+      "sha256": "f47d7777ce74ca3c82308bd2e166ea037e1663b9c668c44c489e99d97f72445d",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "cad/figures/rover-front.jpg",
+      "bytes": 91332,
+      "sha256": "57d49750bf03441779bb49681be122929d92fb991dfd8d4163ba48e4d0e0d5e4",
+      "hash_mode": "binary"
+    },
+    {
+      "path": "cad/figures/rover-length-height.png",
+      "bytes": 1311732,
+      "sha256": "e5e147693ffd37cb9805183561eb71eea496926f66357b98b6d16ed2f87b6d71",
+      "hash_mode": "binary"
+    },
+    {
+      "path": "cad/figures/rover-oblique.jpg",
+      "bytes": 118665,
+      "sha256": "16df019d3fcfb01d2e6c016256155b42a382af36b216a12fd2fff5e78b75475b",
+      "hash_mode": "binary"
+    },
+    {
+      "path": "cad/figures/rover-side.jpg",
+      "bytes": 100826,
+      "sha256": "bc5a73932215a2af0d109dcce504a9d589ceda88ecc9cf0968ab59fc467642a9",
+      "hash_mode": "binary"
+    },
+    {
+      "path": "cad/figures/rover-width.png",
+      "bytes": 1092399,
+      "sha256": "dae7d9e374a65bf980393b7c72070e591bf82db880c1e7da5bf392b58c7d743f",
+      "hash_mode": "binary"
+    },
+    {
+      "path": "cad/figures/wheel-dimensions.png",
+      "bytes": 1916462,
+      "sha256": "49a6d76e9ed0c0a6e8cf896766cb167cb7f12a4d72d2f094bc7c609cd5100b87",
+      "hash_mode": "binary"
+    },
+    {
+      "path": "cad/figures/wheel-suspension.jpg",
+      "bytes": 78638,
+      "sha256": "9292b2bb663ac27d341c44bdb0faab4ed3c2ac8026377f16bca680ae735d9152",
+      "hash_mode": "binary"
+    },
+    {
+      "path": "cad/figures/wheel-width.png",
+      "bytes": 1128945,
+      "sha256": "9c61414d2aae97a9d31513f5e7bb21e9e9ba5addd51b3fdd5b1715fe0ee429c3",
+      "hash_mode": "binary"
     },
     {
       "path": "cad/fresh-scene-check.json",
@@ -71,8 +131,8 @@
     },
     {
       "path": "cad/README.md",
-      "bytes": 3695,
-      "sha256": "9920de741e0a2c770ee31917787673fe1828b9b1eeba388958a494d91e04f8dc",
+      "bytes": 5629,
+      "sha256": "323c94af1f5e1a1cd4da46800bbd0543992b36760e6a24227f1b59eba59e575d",
       "hash_mode": "text-lf"
     },
     {
@@ -239,8 +299,8 @@
     },
     {
       "path": "docs/design-baseline.md",
-      "bytes": 4386,
-      "sha256": "ffc687915205e608a071147935d98f33c1a7ea72a05158ca987e839d95991404",
+      "bytes": 4817,
+      "sha256": "eeac6fa818d8f8b6810b8957fd9793bf5c6bd56669e4355af513ead56ef08b96",
       "hash_mode": "text-lf"
     },
     {
@@ -257,8 +317,8 @@
     },
     {
       "path": "docs/project-guide.md",
-      "bytes": 12778,
-      "sha256": "bcddf5feca8fdff6fe8cce01cea3b95302180f04eb0520b3dcb36e8b660a55ed",
+      "bytes": 13146,
+      "sha256": "5b95cbcfc116bd5b1d28bb67e82d51cfb1578595f1d575b81698e9e8fcaa131c",
       "hash_mode": "text-lf"
     },
     {
@@ -310,9 +370,21 @@
       "hash_mode": "text-lf"
     },
     {
+      "path": "LICENSE",
+      "bytes": 1073,
+      "sha256": "39b00af7174968d86fda03b40110c9a14d430d5b0e925cf9005d5ddcc88ec096",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "LICENSING.md",
+      "bytes": 1942,
+      "sha256": "f343d5d57b52813966c5d30d0851e1c54ceb1b0a6dac9deff2de87900d08c0c7",
+      "hash_mode": "text-lf"
+    },
+    {
       "path": "README.md",
-      "bytes": 12138,
-      "sha256": "0c9496bfc2c968748d88e42bdf3212e10d6c2cae9e674b7ba041dafee24975d7",
+      "bytes": 14305,
+      "sha256": "1b97c6097d2c9a500f7d795bf8104033a6859a4d9e2a73b1c581f3fb2378be21",
       "hash_mode": "text-lf"
     },
     {
@@ -461,14 +533,14 @@
     },
     {
       "path": "tools/verify_package.py",
-      "bytes": 3195,
-      "sha256": "a108d8837265ad309aa3c9181adf6ff5361aee32d66b25b7f39e2d6adb081dd7",
+      "bytes": 3265,
+      "sha256": "21021adb3858109a8f761127bf99eff74fea9e1fa03644d2e7f80fc6db195258",
       "hash_mode": "text-lf"
     },
     {
       "path": "UPLOAD.md",
-      "bytes": 2405,
-      "sha256": "c00b0f74d31f15106dfb94d1dc32d0ab083037bf2d8b1c2cbe2debe7b4f37c3e",
+      "bytes": 2710,
+      "sha256": "73657a4e83cecf1876f3bb8b98ce1764293cecc19a4beb6cd51fe5aa3ba2ef0b",
       "hash_mode": "text-lf"
     }
   ]

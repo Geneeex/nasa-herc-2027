@@ -1,0 +1,87 @@
+{
+  "source": "Eight images supplied by Sabik Bin Sultan for the HERC repository update on 2026-09-23",
+  "preservation": "Original image bytes and pixel dimensions preserved; no cropping, resizing or annotation changes",
+  "scope": "Design visualisation and supplied dimension annotations; not manufacturing tolerances or measured build evidence",
+  "figures": [
+    {
+      "figure": 1,
+      "file": "rover-front.jpg",
+      "caption": "Front rover view",
+      "source_filename": "codex-clipboard-4dcfcd9d-5893-4d8d-be1f-af552f2caf05.jpg",
+      "width_px": 1368,
+      "height_px": 798,
+      "bytes": 91332,
+      "sha256": "57d49750bf03441779bb49681be122929d92fb991dfd8d4163ba48e4d0e0d5e4"
+    },
+    {
+      "figure": 2,
+      "file": "wheel-suspension.jpg",
+      "caption": "Wheel and suspension detail",
+      "source_filename": "codex-clipboard-ceea4435-8407-41e6-9993-dddc67ef1033.jpg",
+      "width_px": 1368,
+      "height_px": 798,
+      "bytes": 78638,
+      "sha256": "9292b2bb663ac27d341c44bdb0faab4ed3c2ac8026377f16bca680ae735d9152"
+    },
+    {
+      "figure": 3,
+      "file": "rover-oblique.jpg",
+      "caption": "Three-quarter rover view",
+      "source_filename": "codex-clipboard-154ce0d1-7d30-4f40-a044-d02ac826e6d3.jpg",
+      "width_px": 1368,
+      "height_px": 798,
+      "bytes": 118665,
+      "sha256": "16df019d3fcfb01d2e6c016256155b42a382af36b216a12fd2fff5e78b75475b"
+    },
+    {
+      "figure": 4,
+      "file": "rover-side.jpg",
+      "caption": "Side rover view",
+      "source_filename": "codex-clipboard-32d60afd-6e06-4272-8e2a-b5e18c072a4e.jpg",
+      "width_px": 1368,
+      "height_px": 798,
+      "bytes": 100826,
+      "sha256": "bc5a73932215a2af0d109dcce504a9d589ceda88ecc9cf0968ab59fc467642a9"
+    },
+    {
+      "figure": 5,
+      "file": "rover-width.png",
+      "caption": "Overall width annotation",
+      "source_filename": "codex-clipboard-08963986-d069-4a7f-991a-a7e7a80732c1.png",
+      "width_px": 4275,
+      "height_px": 2494,
+      "bytes": 1092399,
+      "sha256": "dae7d9e374a65bf980393b7c72070e591bf82db880c1e7da5bf392b58c7d743f"
+    },
+    {
+      "figure": 6,
+      "file": "wheel-width.png",
+      "caption": "Wheel width annotation",
+      "source_filename": "codex-clipboard-a3b2c39d-87b5-442e-9ae8-cb32a686d71f.png",
+      "width_px": 2767,
+      "height_px": 2202,
+      "bytes": 1128945,
+      "sha256": "9c61414d2aae97a9d31513f5e7bb21e9e9ba5addd51b3fdd5b1715fe0ee429c3"
+    },
+    {
+      "figure": 7,
+      "file": "rover-length-height.png",
+      "caption": "Length and camera-top height annotations",
+      "source_filename": "codex-clipboard-d2381583-612e-4c73-9556-7f71fea26c6a.png",
+      "width_px": 4275,
+      "height_px": 2494,
+      "bytes": 1311732,
+      "sha256": "e5e147693ffd37cb9805183561eb71eea496926f66357b98b6d16ed2f87b6d71"
+    },
+    {
+      "figure": 8,
+      "file": "wheel-dimensions.png",
+      "caption": "Wheel and rim dimensions",
+      "source_filename": "codex-clipboard-63b1a0a5-e3f7-4f19-b499-9ea623ea5f96.png",
+      "width_px": 3222,
+      "height_px": 2359,
+      "bytes": 1916462,
+      "sha256": "49a6d76e9ed0c0a6e8cf896766cb167cb7f12a4d72d2f094bc7c609cd5100b87"
+    }
+  ]
+}

@@ -19,6 +19,8 @@ Prepared 23 September 2026. We use this summary to resolve conflicts between the
 | Speed | 215 mm wheels at exactly 200 wheel RPM give 8.1053 km/h before slip | The configured limiter must work at full charge, in both directions and during turning/downhill operation |
 | Mass | Documented estimate 10.919 kg; current verified installed mass unavailable | Rebuild the budget for aluminium, spindle bearings, couplings and all installed hardware |
 
+The [mechanical figure gallery](../cad/figures/README.md) provides the supplied views and annotations behind the nominal dimensions above. The side figure's height ends at the camera top, excluding the antenna. The wheel figure's “tyre radial thickness” label denotes the 13.5 mm rim-to-tread span; it does not specify minimum printed wall thickness. The images remain unchanged and do not replace dimensional inspection or the historical native-model checks.
+
 ## Drive interfaces
 
 We mount each motor and its spindle-bearing supports on the same moving carrier. The coupling transfers torque; spindle bearings carry wheel impact and side loads. The older direct hex-coupler description in the source technical document does not define this revised assembly.

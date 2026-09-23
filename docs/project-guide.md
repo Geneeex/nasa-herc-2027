@@ -9,6 +9,7 @@ Start with the [repository overview](../README.md), then use this guide to follo
 | Material | What it establishes |
 | --- | --- |
 | Python calculations and tests | Reproducible arithmetic, input validation and historical mass accounting; the supplied record contains 16 successful checks. |
+| Mechanical figure gallery | Eight supplied rover views and dimensioned figures, preserved at their original resolution. |
 | Concept previews and scene reports | An illustrative rover and task scenario; a supplied historical report records 17 successful Blender scene checks. |
 | Architecture diagrams | Proposed power, control, mechanical-support and task-data relationships. |
 | Source documents and procurement tables | The recorded design rationale and candidate parts, including known conflicts and spares. |
@@ -61,7 +62,7 @@ Every received command, action outcome and saved result should remain traceable 
 
 ## 5. What the numbers mean
 
-The [calculation results](../calculations/results.md) expose formulas and assumptions rather than hiding them behind a single headline specification.
+The [calculation results](../calculations/results.md) expose formulas and assumptions rather than hiding them behind a single headline specification. Use the [mechanical figure gallery](../cad/figures/README.md) to read the supplied dimensions alongside front, side, oblique and suspension views. These are design renderings, not measurements of an assembled rover.
 
 - **Speed:** 215 mm wheels at exactly 200 wheel RPM yield 8.105309 km/h without slip. The 190 RPM case yields 7.700044 km/h. Both are scenarios, not measured loaded speeds or validated limiter settings.
 - **Tyre geometry:** `(215 − 188) / 2 = 13.5 mm` is the rim-lip-to-tread span, not minimum printed wall thickness.
@@ -107,7 +108,7 @@ The [schedule](development-schedule.md) targets orders by **16 October 2026**, b
 | [`calculations/`](../calculations/README.md) | Inputs, formulas, generated reports and historical mass audit. |
 | [`data/`](../data/README.md) | Procurement records and calculation provenance. |
 | [`diagrams/`](../diagrams/README.md) | Architecture images and editable diagram sources. |
-| [`cad/`](../cad/README.md) | Illustrative previews, simulated results and historical scene reports. |
+| [`cad/`](../cad/README.md) | Rover views and dimensioned figures, task previews, simulated results and historical scene reports. |
 | [`testing/`](../testing/README.md) | Acceptance plan, open criteria, blank forms and future evidence. |
 | [`tests/`](../tests/test_calculations.py) | Calculation regression and input-validation checks. |
 
