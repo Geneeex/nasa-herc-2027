@@ -1,0 +1,527 @@
+{
+  "size": [
+    1920,
+    1400
+  ],
+  "text": [
+    {
+      "text": "NASA HERC 2027 TEAM BANGLADESH",
+      "x": 60,
+      "y": 40,
+      "width": 415.98,
+      "font_size": 22
+    },
+    {
+      "text": "Chassis & drive system",
+      "x": 60,
+      "y": 80,
+      "width": 541.0,
+      "font_size": 48
+    },
+    {
+      "text": "Our four-wheel drive architecture",
+      "x": 61,
+      "y": 139,
+      "width": 339.0,
+      "font_size": 23
+    },
+    {
+      "text": "Power",
+      "x": 1132,
+      "y": 87,
+      "width": 62.0,
+      "font_size": 22
+    },
+    {
+      "text": "Control",
+      "x": 1322,
+      "y": 87,
+      "width": 70.0,
+      "font_size": 22
+    },
+    {
+      "text": "Torque",
+      "x": 1522,
+      "y": 87,
+      "width": 67.97,
+      "font_size": 22
+    },
+    {
+      "text": "Support",
+      "x": 1707,
+      "y": 87,
+      "width": 76.0,
+      "font_size": 22
+    },
+    {
+      "text": "DRIVE POWER",
+      "x": 60,
+      "y": 187,
+      "width": 137.0,
+      "font_size": 19
+    },
+    {
+      "text": "3S drive battery",
+      "x": 131.0,
+      "y": 239,
+      "width": 188.0,
+      "font_size": 25
+    },
+    {
+      "text": "11.1 V nominal | 5000 mAh",
+      "x": 95.51,
+      "y": 274,
+      "width": 258.98,
+      "font_size": 21
+    },
+    {
+      "text": "12.6 V fully charged",
+      "x": 129.5,
+      "y": 301,
+      "width": 191.0,
+      "font_size": 21
+    },
+    {
+      "text": "Main fuse",
+      "x": 517.5,
+      "y": 239,
+      "width": 115.0,
+      "font_size": 25
+    },
+    {
+      "text": "Rating to be verified",
+      "x": 495.0,
+      "y": 274,
+      "width": 160.0,
+      "font_size": 18
+    },
+    {
+      "text": "Disconnect switch",
+      "x": 801.0,
+      "y": 239,
+      "width": 218.0,
+      "font_size": 25
+    },
+    {
+      "text": "Accessible isolation",
+      "x": 814.5,
+      "y": 274,
+      "width": 191.0,
+      "font_size": 22
+    },
+    {
+      "text": "Power distribution",
+      "x": 1261.0,
+      "y": 239,
+      "width": 218.0,
+      "font_size": 25
+    },
+    {
+      "text": "Insulated positive and return wiring",
+      "x": 1203.0,
+      "y": 274,
+      "width": 334.0,
+      "font_size": 21
+    },
+    {
+      "text": "FlySky FS-i6X",
+      "x": 322.0,
+      "y": 417,
+      "width": 166.0,
+      "font_size": 25
+    },
+    {
+      "text": "AA-powered handheld",
+      "x": 299.0,
+      "y": 452,
+      "width": 212.0,
+      "font_size": 21
+    },
+    {
+      "text": "Throttle + steering mixing",
+      "x": 283.5,
+      "y": 479,
+      "width": 243.0,
+      "font_size": 21
+    },
+    {
+      "text": "FS-iA10B receiver",
+      "x": 827.5,
+      "y": 417,
+      "width": 215.0,
+      "font_size": 25
+    },
+    {
+      "text": "Separate left / right commands",
+      "x": 797.5,
+      "y": 452,
+      "width": 275.0,
+      "font_size": 20
+    },
+    {
+      "text": "Wireless RC",
+      "x": 616.5,
+      "y": 419,
+      "width": 107.0,
+      "font_size": 19
+    },
+    {
+      "text": "Left PWM + ground",
+      "x": 668.0,
+      "y": 512,
+      "width": 156.0,
+      "font_size": 18
+    },
+    {
+      "text": "Right PWM + ground",
+      "x": 1155,
+      "y": 523,
+      "width": 168.0,
+      "font_size": 18
+    },
+    {
+      "text": "LEFT ESC",
+      "x": 385.0,
+      "y": 573,
+      "width": 140.0,
+      "font_size": 29
+    },
+    {
+      "text": "New Rain brushed ESC",
+      "x": 332.5,
+      "y": 608,
+      "width": 245.0,
+      "font_size": 23
+    },
+    {
+      "text": "Controls both left motors",
+      "x": 329.5,
+      "y": 635,
+      "width": 251.0,
+      "font_size": 23
+    },
+    {
+      "text": "RIGHT ESC",
+      "x": 1346.0,
+      "y": 573,
+      "width": 158.0,
+      "font_size": 29
+    },
+    {
+      "text": "New Rain brushed ESC",
+      "x": 1320.5,
+      "y": 608,
+      "width": 209.0,
+      "font_size": 20
+    },
+    {
+      "text": "Controls both right motors",
+      "x": 1309.0,
+      "y": 635,
+      "width": 232.0,
+      "font_size": 20
+    },
+    {
+      "text": "BEC + insulated; signal ground retained",
+      "x": 1249.0,
+      "y": 662,
+      "width": 352.0,
+      "font_size": 20
+    },
+    {
+      "text": "One compatible ESC BEC powers receiver",
+      "x": 760.5,
+      "y": 363,
+      "width": 379.0,
+      "font_size": 20
+    },
+    {
+      "text": "Configured output cap + link-loss stopping",
+      "x": 710.5,
+      "y": 602,
+      "width": 393.0,
+      "font_size": 19
+    },
+    {
+      "text": "Within the ESC / radio control settings",
+      "x": 755.5,
+      "y": 632,
+      "width": 303.0,
+      "font_size": 18
+    },
+    {
+      "text": "Two motors in parallel",
+      "x": 205,
+      "y": 755,
+      "width": 214.98,
+      "font_size": 20
+    },
+    {
+      "text": "Two motors in parallel",
+      "x": 1155,
+      "y": 755,
+      "width": 214.98,
+      "font_size": 20
+    },
+    {
+      "text": "Motor branch fuse",
+      "x": 222.5,
+      "y": 831,
+      "width": 175.0,
+      "font_size": 20
+    },
+    {
+      "text": "Front-left motor",
+      "x": 219.5,
+      "y": 915,
+      "width": 181.0,
+      "font_size": 24
+    },
+    {
+      "text": "12 V | 200 RPM class",
+      "x": 207.0,
+      "y": 950,
+      "width": 206.0,
+      "font_size": 21
+    },
+    {
+      "text": "Front-left wheel",
+      "x": 220.0,
+      "y": 1049,
+      "width": 180.0,
+      "font_size": 24
+    },
+    {
+      "text": "Clamping coupling",
+      "x": 229.0,
+      "y": 1084,
+      "width": 162.0,
+      "font_size": 20
+    },
+    {
+      "text": "Bearing-supported spindle",
+      "x": 194.0,
+      "y": 1111,
+      "width": 232.0,
+      "font_size": 20
+    },
+    {
+      "text": "PETG rim + TPU tyre",
+      "x": 214.5,
+      "y": 1138,
+      "width": 191.0,
+      "font_size": 20
+    },
+    {
+      "text": "Motor branch fuse",
+      "x": 552.5,
+      "y": 831,
+      "width": 175.0,
+      "font_size": 20
+    },
+    {
+      "text": "Rear-left motor",
+      "x": 554.5,
+      "y": 915,
+      "width": 171.0,
+      "font_size": 24
+    },
+    {
+      "text": "12 V | 200 RPM class",
+      "x": 537.0,
+      "y": 950,
+      "width": 206.0,
+      "font_size": 21
+    },
+    {
+      "text": "Rear-left wheel",
+      "x": 555.0,
+      "y": 1049,
+      "width": 170.0,
+      "font_size": 24
+    },
+    {
+      "text": "Clamping coupling",
+      "x": 559.0,
+      "y": 1084,
+      "width": 162.0,
+      "font_size": 20
+    },
+    {
+      "text": "Bearing-supported spindle",
+      "x": 524.0,
+      "y": 1111,
+      "width": 232.0,
+      "font_size": 20
+    },
+    {
+      "text": "PETG rim + TPU tyre",
+      "x": 544.5,
+      "y": 1138,
+      "width": 191.0,
+      "font_size": 20
+    },
+    {
+      "text": "Motor branch fuse",
+      "x": 1172.5,
+      "y": 831,
+      "width": 175.0,
+      "font_size": 20
+    },
+    {
+      "text": "Front-right motor",
+      "x": 1160.5,
+      "y": 915,
+      "width": 199.0,
+      "font_size": 24
+    },
+    {
+      "text": "12 V | 200 RPM class",
+      "x": 1157.0,
+      "y": 950,
+      "width": 206.0,
+      "font_size": 21
+    },
+    {
+      "text": "Front-right wheel",
+      "x": 1161.0,
+      "y": 1049,
+      "width": 198.0,
+      "font_size": 24
+    },
+    {
+      "text": "Clamping coupling",
+      "x": 1179.0,
+      "y": 1084,
+      "width": 162.0,
+      "font_size": 20
+    },
+    {
+      "text": "Bearing-supported spindle",
+      "x": 1144.0,
+      "y": 1111,
+      "width": 232.0,
+      "font_size": 20
+    },
+    {
+      "text": "PETG rim + TPU tyre",
+      "x": 1164.5,
+      "y": 1138,
+      "width": 191.0,
+      "font_size": 20
+    },
+    {
+      "text": "Motor branch fuse",
+      "x": 1502.5,
+      "y": 831,
+      "width": 175.0,
+      "font_size": 20
+    },
+    {
+      "text": "Rear-right motor",
+      "x": 1495.5,
+      "y": 915,
+      "width": 189.0,
+      "font_size": 24
+    },
+    {
+      "text": "12 V | 200 RPM class",
+      "x": 1487.0,
+      "y": 950,
+      "width": 206.0,
+      "font_size": 21
+    },
+    {
+      "text": "Rear-right wheel",
+      "x": 1496.0,
+      "y": 1049,
+      "width": 188.0,
+      "font_size": 24
+    },
+    {
+      "text": "Clamping coupling",
+      "x": 1509.0,
+      "y": 1084,
+      "width": 162.0,
+      "font_size": 20
+    },
+    {
+      "text": "Bearing-supported spindle",
+      "x": 1474.0,
+      "y": 1111,
+      "width": 232.0,
+      "font_size": 20
+    },
+    {
+      "text": "PETG rim + TPU tyre",
+      "x": 1494.5,
+      "y": 1138,
+      "width": 191.0,
+      "font_size": 20
+    },
+    {
+      "text": "6061-T6 chassis",
+      "x": 247.5,
+      "y": 1257,
+      "width": 182.0,
+      "font_size": 24
+    },
+    {
+      "text": "Aluminium structure",
+      "x": 242.5,
+      "y": 1292,
+      "width": 192.0,
+      "font_size": 22
+    },
+    {
+      "text": "4 arms | 8 springs | 4 dampers",
+      "x": 786.5,
+      "y": 1257,
+      "width": 327.0,
+      "font_size": 23
+    },
+    {
+      "text": "Fixed-steering carriers  |  Secured pivots  |  Travel stops",
+      "x": 683.01,
+      "y": 1292,
+      "width": 533.98,
+      "font_size": 21
+    },
+    {
+      "text": "Wheel dimensions",
+      "x": 1450.5,
+      "y": 1257,
+      "width": 212.0,
+      "font_size": 24
+    },
+    {
+      "text": "215 x 90 mm | 188 mm rim",
+      "x": 1436.0,
+      "y": 1292,
+      "width": 241.0,
+      "font_size": 20
+    },
+    {
+      "text": "13.5 mm rim-to-tread span",
+      "x": 1437.0,
+      "y": 1319,
+      "width": 239.0,
+      "font_size": 20
+    },
+    {
+      "text": "Equal side commands: straight drive  |  Different side commands: skid steering",
+      "x": 60,
+      "y": 1354,
+      "width": 722.0,
+      "font_size": 19
+    },
+    {
+      "text": "We verify below 8 km/h at full charge (12.6 V).",
+      "x": 1463.0,
+      "y": 1354,
+      "width": 392.0,
+      "font_size": 19
+    }
+  ],
+  "notes": "Our chassis and drive system block diagram.\nEach ESC's two motors are connected in parallel, with an individual fuse on each motor branch.\nBoth motor wires connect to the reversible ESC output; neither motor terminal connects directly to battery ground.\nOnly one verified receiver-compatible BEC powers the receiver. Disconnect and insulate the other ESC's BEC positive/red lead, retaining both ESC PWM signal and ground connections.\nWe mount each motor and spindle-bearing support together to keep clamping couplings aligned throughout suspension travel.\nOne spring-and-damper unit plus one separate spring per wheel gives eight springs and four dampers. Combined wheel rate, preload and travel require loaded verification.\nWe will verify the supplied ESC voltage and current capability, proportional reverse, braking, fuse selection, neutral/endpoints, mixing, speed-limit configuration and link-loss stopping.\nWheel dimensions:215mm overall diameter,90mm width,188mm rim outer diameter,13.5mm radial tyre thickness including tread.\nEqual left/right commands drive approximately straight; different side commands turn the rover. Opposite side directions allow a pivot turn where traction and torque permit.\nThe separate autonomous task-system architecture is included in two companion pages. This repository export reconciles the earlier local source with the later reviewed design; it does not edit the Canva original. Install one 100 nF suppression capacitor across each motor with short leads. All current and fuse ratings require acceptance testing.\n"
+}

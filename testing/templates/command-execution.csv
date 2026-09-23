@@ -1,0 +1,2 @@
+"run_id","test_id","measurement_id","status","stimulus_type","stimulus_source_path","input_sequence_id","input_command_index","expected_command","received_command","received_at_iso8601","execution_started_at_iso8601","execution_finished_at_iso8601","state_before","state_after","filter_before","filter_after","queue_depth_observed","result_or_error","radio_configuration_ref","code_commit","criterion_ref","evidence_path","not_measured_reason","notes"
+"","","","NOT_RUN","","","","","","","","","","","","","","","","","","","","",""

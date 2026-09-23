@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "team": "NASA HERC 2027 TEAM BANGLADESH",
+  "current_design": {
+    "status": "Proposal dimensions and component selections; not manufactured measurements.",
+    "wheel": {
+      "count": 4,
+      "diameter_mm": 215,
+      "width_mm": 90,
+      "rim_lip_outer_diameter_mm": 188,
+      "rim_lip_to_tread_peak_mm": 13.5
+    },
+    "rover": {
+      "length_mm": 655,
+      "width_mm": 630,
+      "height_to_camera_mm": 421,
+      "height_excludes_antenna": true
+    },
+    "speed": {
+      "wheel_rpm_scenarios": [
+        190,
+        200
+      ],
+      "competition_limit_mph": 5,
+      "engineering_target_kmh": 8
+    },
+    "batteries": [
+      {
+        "system": "drive",
+        "nominal_voltage_V": 11.1,
+        "fully_charged_voltage_V": 12.6,
+        "capacity_mAh": 5000
+      },
+      {
+        "system": "task",
+        "nominal_voltage_V": 11.1,
+        "fully_charged_voltage_V": 12.6,
+        "capacity_mAh": 2200
+      }
+    ],
+    "mass": {
+      "documented_estimate_kg": 10.919,
+      "scoring_target_lb": 20,
+      "handbook_maximum_lb": 60,
+      "verified_current_installed_mass_kg": null
+    }
+  },
+  "legacy_analytical_wheel": {
+    "status": "Historical analytical planning geometry; not CAD material volume, slicer output or measured print mass.",
+    "diameter_mm": 215,
+    "width_mm": 90,
+    "rim_barrel_outer_diameter_mm": 185,
+    "rim_barrel_inner_diameter_mm": 179,
+    "rim_extra_solid_cm3": 55,
+    "rim_extra_core_cm3": 45,
+    "rim_core_infill_fraction": 0.375,
+    "petg_density_g_cm3": 1.27,
+    "tyre_carcass_outer_diameter_mm": 205,
+    "tyre_carcass_inner_diameter_mm": 185,
+    "tyre_skin_mm": 2.4,
+    "tyre_core_infill_fraction": 0.15,
+    "tread_solid_cm3": 60,
+    "tpu_density_g_cm3": 1.21,
+    "legacy_hex_coupler_mass_g": 18.6
+  },
+  "legacy_printed_body": {
+    "status": "Obsolete CF-PLA chassis scenario; incompatible with current 6061-T6 aluminium chassis.",
+    "density_g_cm3": 1.21,
+    "core_infill_fraction": 0.375,
+    "parts": [
+      {
+        "name": "Chassis deck",
+        "solid_cm3": 391.68,
+        "core_cm3": 593.92
+      },
+      {
+        "name": "Frame rails",
+        "solid_cm3": 432.375904,
+        "core_cm3": 207.624096
+      },
+      {
+        "name": "Four suspension arm and bracket sets",
+        "solid_cm3": 280,
+        "core_cm3": 120
+      },
+      {
+        "name": "Outer covering",
+        "solid_cm3": 840,
+        "core_cm3": 0
+      },
+      {
+        "name": "Two battery and two electronics enclosures",
+        "solid_cm3": 340,
+        "core_cm3": 0
+      },
+      {
+        "name": "Guards, mast and sensor/display supports",
+        "solid_cm3": 200,
+        "core_cm3": 50
+      }
+    ]
+  },
+  "updated_analytical_wheel": {
+    "status": "Analytical planning dimensions confirmed in the current source Google Doc on 2026-09-23; NOT measured CAD material volume, slicer output or print mass.",
+    "rim_barrel_outer_diameter_mm": 188,
+    "rim_barrel_inner_diameter_mm": 182,
+    "tyre_carcass_inner_diameter_mm": 188,
+    "inherited_parameters": "All other parameters equal the legacy analytical wheel as confirmed by the current Google Doc. Outer lip, barrel and tyre seat share one diameter in this simplified model; final fit geometry still needs confirmation."
+  }
+}

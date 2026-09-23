@@ -1,0 +1,41 @@
+{
+  "review_date": "2026-09-23",
+  "source_note": "Hashes identify the source files reviewed locally. Full source documents, private paths and document IDs are not embedded here. Original component links in the ledger are preserved provenance, not newly verified manufacturer claims.",
+  "sources": [
+    {
+      "source_file_basename": "Rover-Technical-Specifications-and-Weight.docx",
+      "sha256": "3b59a450834300c8f3de00155e56634d3a11dd0d0adce169394af1faeac44e7d",
+      "role": "Current proposal: 215 / 90 / 188 / 13.5 mm wheel geometry; 6061-T6 chassis; 10.919 kg displayed estimate."
+    },
+    {
+      "source_file_basename": "ledger.json",
+      "sha256": "09fa49f5fc074904ddb6ef6207e1fd2a8a9da066d5d41256be404043c66ceb56",
+      "role": "Historical 64-row mass ledger with unit masses, quantities and original source URLs."
+    },
+    {
+      "source_file_basename": "calculation-audit.json",
+      "sha256": "579726ccf04a854be33c498769db24de684a167129b21c65bc8be17f45f95df3",
+      "role": "Historical 10.973 kg carry-forward audit."
+    },
+    {
+      "source_file_basename": "document-text.md",
+      "sha256": "b6cab0ea4b7399854a98755f594370c0b9b1fc87853c0d2a75100d1bb401b1ac",
+      "role": "Preserved earlier mass-document read. Despite its folder name, it contains a 185 / 179 mm rim and a 10.973 kg total."
+    },
+    {
+      "source_file_basename": "wheel_mass_report.md",
+      "sha256": "425ed88697b38f56abda40ea9cc23edfae1cb79ee2ee824287c6a75e4d38cdec",
+      "role": "Different PA12 / aluminium / TPU geometry model; excluded from the PETG / TPU mass calculation."
+    },
+    {
+      "source_file_basename": "Original-neutral-summary.json",
+      "sha256": "9b8721ab49766e8955dacb067f05df8233dda9aef5571fb85b6f2a9ee940d9d8",
+      "role": "Historical source CAD overall dimensions including antenna: about 655.078 x 630.000 x 432.000 mm. Not used as the camera-only height."
+    },
+    {
+      "source_file_basename": "source-mass-calculation-excerpt.json",
+      "role": "Current source Google Doc read confirms the 188 / 182 mm analytical rim, updated Group B and 10.919 kg carry total. See the sanitized excerpt for the source URL and calculation text.",
+      "sha256": "4d4c45855f9a673403408836c36076de71409bbdaf5edce6b5e175811e21c73e"
+    }
+  ]
+}

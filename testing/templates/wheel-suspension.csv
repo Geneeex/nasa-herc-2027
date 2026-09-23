@@ -1,0 +1,2 @@
+"run_id","test_id","measurement_id","status","measured_at_iso8601","module_id","print_revision","load_case","actual_corner_mass_kg","applied_vertical_force_N","applied_lateral_force_N","deflection_mm","permanent_set_mm","suspension_travel_mm","cycle_count_completed","measured_gap_mm","measured_obstacle_height_mm","surface","damage_observed","retention_check","coupling_alignment_check","uncertainty_notes","criterion_ref","evidence_path","not_measured_reason","notes"
+"","","","NOT_RUN","","","","","","","","","","","","","","","","","","","","","",""

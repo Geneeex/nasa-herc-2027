@@ -1,0 +1,475 @@
+{
+  "package": "NASA HERC 2027 TEAM BANGLADESH",
+  "prepared_date": "2026-09-23",
+  "scope": "Package contents and normalized text integrity; not hardware validation",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 146,
+      "sha256": "9082c22f2b8aa878a1cc7cddae244282dad6e98c1f51ecbc7481f84233e312f0",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": ".github/workflows/checks.yml",
+      "bytes": 636,
+      "sha256": "f972b6da0f26b98ddd8613d59a7f07ce6f11b8f7f2a8cd69dd2b8ca042dd9b26",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 175,
+      "sha256": "e65583ae52319c4f8db3df2a070dc68fd373314761e3b18ba8d051b0c2dc2bff",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "cad/example-scene-measurements.json",
+      "bytes": 3799,
+      "sha256": "4f20793b6b02f5d3e0f900e1a983576d468f90454079273ecf5dec9deb8513a5",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "cad/fresh-scene-check.json",
+      "bytes": 2383,
+      "sha256": "000ada3e20e10611897b049e1fb0ea91663c4477082b7c74dde15002c8b56511",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "cad/historical-scene-validation.json",
+      "bytes": 1208,
+      "sha256": "42aab0bd77d85f24713e1ac9ec370eaea621b490c111577e784de85359399e29",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "cad/previews/01-Task-site.png",
+      "bytes": 3909441,
+      "sha256": "84163d8bfc3b8d2fd39bc92babdc2815e7fd20279d1733140bc3f9e6141be8d1",
+      "hash_mode": "binary"
+    },
+    {
+      "path": "cad/previews/02-Target-dimensions.png",
+      "bytes": 3478461,
+      "sha256": "b4394c10030e9ecdd3baf4bb75252404395cf08db5ea1e41fa190be62acdd622",
+      "hash_mode": "binary"
+    },
+    {
+      "path": "cad/previews/03-Rover-image-capture.png",
+      "bytes": 3626632,
+      "sha256": "9f24b899e71d406b3aa9180b4d6575b21715e158c9e9d86b06e51563b2d74f5b",
+      "hash_mode": "binary"
+    },
+    {
+      "path": "cad/previews/04-Distance-measurement.png",
+      "bytes": 3091905,
+      "sha256": "8f0ca282a3114fdead134ede39269dee65148e4cddddf12844ca0c8df7b897c6",
+      "hash_mode": "binary"
+    },
+    {
+      "path": "cad/previews/05-Task-results.png",
+      "bytes": 3663838,
+      "sha256": "3bd7bcd9ee3e5999f3347b60cd8bd116e1493d5a8d1fa968531a7c465c83c560",
+      "hash_mode": "binary"
+    },
+    {
+      "path": "cad/README.md",
+      "bytes": 3695,
+      "sha256": "9920de741e0a2c770ee31917787673fe1828b9b1eeba388958a494d91e04f8dc",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "cad/release-assets.json",
+      "bytes": 705,
+      "sha256": "af3a65194a4fc7e2d032e6f856045bd0b4a89b7f8c8e01de935d2bbc223e001f",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "cad/simulation/SIM-01-Red-capture.png",
+      "bytes": 1350316,
+      "sha256": "6afb5429b9d69bfc005e16a27e922c9e8f9eae6b57d9d58ff74d0886bf1420d8",
+      "hash_mode": "binary"
+    },
+    {
+      "path": "cad/simulation/SIM-02-Blue-capture.png",
+      "bytes": 1245129,
+      "sha256": "5ec651f3c34151e2a7c4ead0b583a06c37295b984660f91c25abfa926aecc35f",
+      "hash_mode": "binary"
+    },
+    {
+      "path": "cad/simulation/SIM-03-No-filter-capture.png",
+      "bytes": 1531642,
+      "sha256": "3e2166cde2934bb07e7196640faabb2bf7f206933cde6443c5d49d7105fb37ea",
+      "hash_mode": "binary"
+    },
+    {
+      "path": "calculations/calculate.py",
+      "bytes": 21444,
+      "sha256": "78a8e52f05ec64a1f5c2b0b7f58463d7e0bcdc55f62c6f15654c463c5c23295f",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "calculations/inputs.json",
+      "bytes": 3408,
+      "sha256": "3f541d3571350182bfc41da10ec8b742c414b5db53c054f3376d13b952eb7374",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "calculations/legacy-installed-mass.csv",
+      "bytes": 9236,
+      "sha256": "332791b6dce4b37624d18443fef64bae62eeb4d38bd907aeb30360dc625eb5be",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "calculations/README.md",
+      "bytes": 5347,
+      "sha256": "d25fc601ec8ef8f15634ac939b0a3f00e8a02011b31be73330e9719c34b8253b",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "calculations/results.json",
+      "bytes": 25738,
+      "sha256": "1d9ae3e02a0e3c745c2f7110dabcfb850a145c4a0110d386f79f08b1bb05fa3d",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "calculations/results.md",
+      "bytes": 7463,
+      "sha256": "07cf918d63b0e7818f24cca41241fbb470291c0dd9b403a31e5b7b22e5c5bc58",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 607,
+      "sha256": "58272ac0330c63592552db0f4fe0a0fcc688953329c72f4f4958de1a69518cea",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 895,
+      "sha256": "4dc24b3f4568221e5ce9dfcbf3a8a5de928affc98f5e9467b38b132565261098",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "data/calculation-provenance.json",
+      "bytes": 2319,
+      "sha256": "049a5a0996cc61357d473f1721c196fa7fdc5a8d93ca1fcd19acdd50fe148edb",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "data/legacy-installed-mass-ledger.json",
+      "bytes": 24544,
+      "sha256": "6f29c46580b1984240af8fce2f8e7ec10b5bccd0b5017ffd1dee8f6359bd2a98",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "data/procurement-drive.csv",
+      "bytes": 11335,
+      "sha256": "b07f0c2ceb6dc5b2a1322ad46d03cd30875e2107492c48fa82ba28a995813401",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "data/procurement-tasks.csv",
+      "bytes": 10928,
+      "sha256": "5cb7c71b4df300fd6d6a87fe05565fb07651c3f9e262292dc798af3051555a09",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "data/README.md",
+      "bytes": 865,
+      "sha256": "40c643d85f980e99dfbda575ce421505b5effdfd092698d26bebb2716b0d6e64",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "data/source-mass-calculation-excerpt.json",
+      "bytes": 9113,
+      "sha256": "35ca3c5915972a03a1bb459d4eca3a32c6de95feb4965d023043ff595651d872",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "diagrams/Chassis-Diagram-Content.json",
+      "bytes": 11847,
+      "sha256": "8265fb2ecf6978a95e2f007b929a6ab08fc3862c4dbbf840e54dbf562fff36c4",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "diagrams/NASA-HERC-2027-Chassis-Block-Diagram.html",
+      "bytes": 30966,
+      "sha256": "18835c8c98a18ed1d018f1339005506c8b334dc8d12a5bab842c680998976df7",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "diagrams/NASA-HERC-2027-Chassis-Block-Diagram.png",
+      "bytes": 181803,
+      "sha256": "a189e0a101b923cdf7a0ae840bb43f3a126b6529304f67dd43c3d35bd1d0da1a",
+      "hash_mode": "binary"
+    },
+    {
+      "path": "diagrams/NASA-HERC-2027-Task-Block-Diagram-01.png",
+      "bytes": 343617,
+      "sha256": "332e8ae5ddeac99361662f92d9f1069280c41a5955f925c67b5e2f81eae87dbc",
+      "hash_mode": "binary"
+    },
+    {
+      "path": "diagrams/NASA-HERC-2027-Task-Block-Diagram-02.png",
+      "bytes": 326914,
+      "sha256": "3e8e096d20038384be0be26df80333b2ef9f0f3f4391a0357763f9c27503dc45",
+      "hash_mode": "binary"
+    },
+    {
+      "path": "diagrams/NASA-HERC-2027-Task-Block-Diagram.html",
+      "bytes": 76466,
+      "sha256": "61fb1b202c1d2722d8f1c993b418c6febc0f1baf0a1353936e93f57e6bbf8816",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "diagrams/README.md",
+      "bytes": 1956,
+      "sha256": "163271d46a68a6d46839d8cdbbc36f188e5f01dc9f0be83be1e2fd6bd52385c6",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "diagrams/Task-Diagram-Content.json",
+      "bytes": 76802,
+      "sha256": "95d9d751b5036ef4808c7cc7252e533afe625493e79a5e5263df420e215cc69d",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "docs/assets/herc-banner.svg",
+      "bytes": 2609,
+      "sha256": "0ec2e25afc958f146b70b0706d1e4c4f4e42f41393def5ffd82a2427466aa723",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "docs/design-baseline.md",
+      "bytes": 4386,
+      "sha256": "ffc687915205e608a071147935d98f33c1a7ea72a05158ca987e839d95991404",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "docs/development-schedule.md",
+      "bytes": 1618,
+      "sha256": "8fc60300c256f58c46fd9eaeaffc94e3c9a9e82497754b483b45084de00bb6b3",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "docs/open-items.md",
+      "bytes": 2885,
+      "sha256": "4f47c6c6230016f6d9309b74aba1a2a7f93f14b7610c489e0c02a091f4dcda7a",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "docs/project-guide.md",
+      "bytes": 12778,
+      "sha256": "bcddf5feca8fdff6fe8cce01cea3b95302180f04eb0520b3dcb36e8b660a55ed",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "docs/publication-verification.json",
+      "bytes": 1109,
+      "sha256": "a92f0e355cb46df657766a690c9e49c1280805f55109e7b2412b6d1a2171fb8d",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "docs/source-documents/drive-purchase-list.docx",
+      "bytes": 38450,
+      "sha256": "38f4bd57c36cdbe7a3c4bbd656d642a8edd7b9fae5ab81f62561bcd1a1ad4ba5",
+      "hash_mode": "binary"
+    },
+    {
+      "path": "docs/source-documents/major-technical-challenges.docx",
+      "bytes": 38310,
+      "sha256": "3405b3f90e0111510fcc05d1d2019c51ff2f89b4e69d87fac13139cfacde5b71",
+      "hash_mode": "binary"
+    },
+    {
+      "path": "docs/source-documents/README.md",
+      "bytes": 1275,
+      "sha256": "02b9f0ee804674718b46692cd566ecae2a2e0a52c60de2068a6dd47fb146b560",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "docs/source-documents/tasks-purchase-list.docx",
+      "bytes": 44252,
+      "sha256": "5d2d584367583912a25cd41969737283e9aa11a1bce526d5959481e0e55ddf3a",
+      "hash_mode": "binary"
+    },
+    {
+      "path": "docs/source-documents/technical-design-reference.docx",
+      "bytes": 11263402,
+      "sha256": "3b59a450834300c8f3de00155e56634d3a11dd0d0adce169394af1faeac44e7d",
+      "hash_mode": "binary"
+    },
+    {
+      "path": "docs/sources.md",
+      "bytes": 1902,
+      "sha256": "62cad22017ceb15f58923f9d70ebf0c56c41669761091f8782d2c9dffecb9b59",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "docs/verification-record.md",
+      "bytes": 2000,
+      "sha256": "d2230c426774ec5ceb62bec70e98b418363a4d2ac7e0ba4d22b14aa9e9bbbe76",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "README.md",
+      "bytes": 12138,
+      "sha256": "0c9496bfc2c968748d88e42bdf3212e10d6c2cae9e674b7ba041dafee24975d7",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "requirements-diagrams.txt",
+      "bytes": 16,
+      "sha256": "41b54a6fb2918667ca47a61d73b522629d84490f3d78f0f20b21135faba10d35",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "testing/evidence/README.md",
+      "bytes": 2375,
+      "sha256": "730d2866582d18f3de3cfc4853b925909f3717f7d7007f2033c9fbada79ff768",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "testing/open-criteria.csv",
+      "bytes": 2579,
+      "sha256": "853acc15fc3c296dd2fba517c2cdd0fcae76809e0f4be03ac9492e56b2302701",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "testing/README.md",
+      "bytes": 4704,
+      "sha256": "f023c19ea26f39b55e3edc4dc509e1dde5e48338e3d7d3a18720781142420df8",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "testing/sources.md",
+      "bytes": 4202,
+      "sha256": "4fb84b4d9d43fef56716532c93126d8c8dbcd78142609e587822d45cc7aedf3e",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "testing/templates/command-execution.csv",
+      "bytes": 536,
+      "sha256": "e87e49311d91a9659d2985537ca6bc6d8aea1faa084affc560f650513e6dbc9d",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "testing/templates/drive-electrical.csv",
+      "bytes": 647,
+      "sha256": "013813f4488cb07d195e4f40566ce31347374169ce270a8bd23156735c05cda7",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "testing/templates/endurance-and-per.csv",
+      "bytes": 636,
+      "sha256": "2e05f1757e631171ec48bb66987c148c44d6c7fd930cde4a5a3ba682a7477b96",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "testing/templates/evidence-manifest.csv",
+      "bytes": 265,
+      "sha256": "ad0cb14c0051eb5b66cc2b207f41274a0fd560657250e3db8788188636960392",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "testing/templates/mass-and-dimensions.csv",
+      "bytes": 513,
+      "sha256": "71ebefc58ee7747853f8c6abfc8077fab277aafeacab352a67132a26db50a0b8",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "testing/templates/pointing-and-images.csv",
+      "bytes": 589,
+      "sha256": "c93217bac82e399645a0dfc0dc915378ed12cf341325e66857e1d06e690415f4",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "testing/templates/ranging.csv",
+      "bytes": 637,
+      "sha256": "e3007c62d999688452f3b5b6da742a36f7fe026448cd75c3beaa62c1a86e3d5d",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "testing/templates/README.md",
+      "bytes": 2933,
+      "sha256": "cc303b495413623951bbe49bfb0a680db1e2d023b62f27ed9ea58c127d0a3b87",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "testing/templates/run-record.md",
+      "bytes": 1560,
+      "sha256": "4edc4c63bb9f047b8e527cecd5c7fb9aae41eb8f70f7857710287dc8215f08d0",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "testing/templates/speed-and-stopping.csv",
+      "bytes": 568,
+      "sha256": "bd7d4dcc60e91bed413f8c5e1e1e03496b808feecacb16a5bd11e179841a66d8",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "testing/templates/task-power.csv",
+      "bytes": 687,
+      "sha256": "dce63791fc7e47fa24950db1b2bc2260e8f8b5c2a0c58054490a0503023f870d",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "testing/templates/wheel-suspension.csv",
+      "bytes": 557,
+      "sha256": "46d87688454f9a0b1bff4e0ab828f2900ff4aae3487fc3d427982562bb479acf",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "testing/test-procedures.md",
+      "bytes": 18382,
+      "sha256": "d8c08dfbbfe6362459c80cee0ac126ae6244a96ab5b6f83a1133311a36f6a959",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "testing/verification-matrix.csv",
+      "bytes": 4398,
+      "sha256": "e0508fe24fa961eba8ae16fcd13f8557c99ef0bf1b76504531e236750903bed2",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "tests/test_calculations.py",
+      "bytes": 7885,
+      "sha256": "d1666d7adff42d3f8b9bc7951cd11cdcedd4c37537aa19d847ab270d00b3e68c",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "tests/unit-test-results.json",
+      "bytes": 2644,
+      "sha256": "d5cfba636a66604c61070d102948752b6258d47e473b38b4a9056659f5cdfe7f",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "tools/build_chassis_diagram.py",
+      "bytes": 11856,
+      "sha256": "f8011763345db76684167c23a0d87f7d17b83ae3d2ee4180dd32ff51fb0b80a5",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "tools/build_task_diagram.py",
+      "bytes": 24351,
+      "sha256": "d0b45fab726a3b2483512c1f845038b3402f629034075bb72867c7a215407d76",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "tools/check_task_scene.py",
+      "bytes": 3316,
+      "sha256": "0cce816ddb78c128fb3f79422368724c9fe84ae40557a898c20a425f8b27c21d",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "tools/verify_package.py",
+      "bytes": 3195,
+      "sha256": "a108d8837265ad309aa3c9181adf6ff5361aee32d66b25b7f39e2d6adb081dd7",
+      "hash_mode": "text-lf"
+    },
+    {
+      "path": "UPLOAD.md",
+      "bytes": 2405,
+      "sha256": "c00b0f74d31f15106dfb94d1dc32d0ab083037bf2d8b1c2cbe2debe7b4f37c3e",
+      "hash_mode": "text-lf"
+    }
+  ]
+}

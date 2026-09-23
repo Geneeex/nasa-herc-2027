@@ -1,0 +1,36 @@
+{
+  "record_type": "PRIVATE_REPOSITORY_PUBLICATION_CHECKS",
+  "verified_at_utc": "2026-09-23T04:57:58.184574+00:00",
+  "status": "PASS",
+  "physical_test": false,
+  "python": "3.12.14",
+  "checks": [
+    {
+      "check": "unit_tests",
+      "status": "PASS",
+      "returncode": 0,
+      "test_count": 16
+    },
+    {
+      "check": "calculation_regeneration",
+      "status": "PASS",
+      "returncode": 0
+    },
+    {
+      "check": "reproduced_results.json",
+      "status": "PASS",
+      "normalized_sha256": "1d9ae3e02a0e3c745c2f7110dabcfb850a145c4a0110d386f79f08b1bb05fa3d"
+    },
+    {
+      "check": "reproduced_results.md",
+      "status": "PASS",
+      "normalized_sha256": "07cf918d63b0e7818f24cca41241fbb470291c0dd9b403a31e5b7b22e5c5bc58"
+    },
+    {
+      "check": "reproduced_legacy-installed-mass.csv",
+      "status": "PASS",
+      "normalized_sha256": "332791b6dce4b37624d18443fef64bae62eeb4d38bd907aeb30360dc625eb5be"
+    }
+  ],
+  "scope": "Fresh unit tests and independent calculation regeneration; no native CAD file or rover hardware was available for new physical or Blender checks."
+}

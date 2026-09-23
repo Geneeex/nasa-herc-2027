@@ -1,0 +1,646 @@
+{
+  "status": "Historical planning ledger; NOT a current verified installed bill of materials.",
+  "scope": "All 27 drive-list rows and 37 task-list rows; zero quantities mean excluded or counted elsewhere, not weightless.",
+  "rows": [
+    {
+      "id": "D01",
+      "name": "6061 aluminium chassis stock",
+      "quantity_in_legacy_group_A": 0,
+      "unit_mass_g": null,
+      "basis": "excluded_or_counted_elsewhere",
+      "source_note": "Superseded by printed chassis in C.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "D02",
+      "name": "Suspension metal fasteners, pivots, spacers, nuts and retainers",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 250,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation; printed arms and uprights in C.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "D03",
+      "name": "Suspension pivot bearing and bushing kit",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 100,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation; distinct from wheel bearings.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "D04",
+      "name": "Complete coil-over spring and damper with end mounts",
+      "quantity_in_legacy_group_A": 4,
+      "unit_mass_g": 30,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation; final shock size unselected.",
+      "source_label": "Reference shock",
+      "source_url": "https://store.rc4wd.com/rc4wd-king-off-road-dual-spring-shocks-100mm-medium-od_p_4295.html"
+    },
+    {
+      "id": "D05",
+      "name": "Separate coil spring with seats and retainers",
+      "quantity_in_legacy_group_A": 4,
+      "unit_mass_g": 15,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation; four additional springs.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "D06",
+      "name": "Metal wheel spindle, bearing, flange and retention set",
+      "quantity_in_legacy_group_A": 4,
+      "unit_mass_g": 75,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation; two bearing positions per wheel.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "D07",
+      "name": "6 mm brass hex wheel coupler",
+      "quantity_in_legacy_group_A": 0,
+      "unit_mass_g": null,
+      "basis": "excluded_or_counted_elsewhere",
+      "source_note": "Four installed in B; one spare excluded.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "D08",
+      "name": "12 V 200 RPM gearmotor, Model 2343 candidate",
+      "quantity_in_legacy_group_A": 4,
+      "unit_mass_g": 290,
+      "basis": "unresolved_reference",
+      "source_note": "Team working value; net mass unresolved. Two spares excluded.",
+      "source_label": "Motor supplier",
+      "source_url": "https://electronics.com.bd/12v-dc-200-rpm-high-torque-gear-motor"
+    },
+    {
+      "id": "D09",
+      "name": "37 mm metal motor bracket",
+      "quantity_in_legacy_group_A": 4,
+      "unit_mass_g": 35,
+      "basis": "historical_published_reference_not_reverified",
+      "source_note": "Reference bracket; one spare excluded.",
+      "source_label": "35 g reference",
+      "source_url": "https://qqtrading.com.my/37mm-motor-bracket-for-gb37-dc-gear-motor"
+    },
+    {
+      "id": "D10",
+      "name": "PETG and TPU printing stock",
+      "quantity_in_legacy_group_A": 0,
+      "unit_mass_g": null,
+      "basis": "excluded_or_counted_elsewhere",
+      "source_note": "Finished prints counted in B and C; unused stock excluded.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "D11",
+      "name": "New Rain-family brushed ESC, Model 4438",
+      "quantity_in_legacy_group_A": 2,
+      "unit_mass_g": 53,
+      "basis": "historical_published_reference_not_reverified",
+      "source_note": "Supplier product mass; one spare excluded.",
+      "source_label": "53 g supplier",
+      "source_url": "https://electronics.com.bd/rc-480a-waterproof-brushed-esc-electronic-speed-controller"
+    },
+    {
+      "id": "D12",
+      "name": "FlySky FS-iA10B receiver",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 19.3,
+      "basis": "historical_published_reference_not_reverified",
+      "source_note": "Manufacturer mass; FS-i6X transmitter stays off-rover.",
+      "source_label": "FlySky specification",
+      "source_url": "https://www.flysky-cn.com/ia10b-canshu"
+    },
+    {
+      "id": "D13",
+      "name": "Transmitter AA batteries",
+      "quantity_in_legacy_group_A": 0,
+      "unit_mass_g": null,
+      "basis": "excluded_or_counted_elsewhere",
+      "source_note": "All eight cells off-rover; excluded.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "D14",
+      "name": "Optional LM2596 receiver backup kit",
+      "quantity_in_legacy_group_A": 0,
+      "unit_mass_g": null,
+      "basis": "excluded_or_counted_elsewhere",
+      "source_note": "Optional backup not fitted; excluded.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "D15",
+      "name": "Gens Ace 3S 5000 mAh 60C XT60 drive battery",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 380,
+      "basis": "historical_published_reference_not_reverified",
+      "source_note": "Original non-G-Tech reference; one spare excluded.",
+      "source_label": "380 g pack",
+      "source_url": "https://nzhobbies.com/gens-ace-11-1v-60c-3s-5000mah-lipo-battery-pack-w-xt60-plug/"
+    },
+    {
+      "id": "D16",
+      "name": "Balance charger, power supply and charge leads",
+      "quantity_in_legacy_group_A": 0,
+      "unit_mass_g": null,
+      "basis": "excluded_or_counted_elsewhere",
+      "source_note": "Off-rover equipment; excluded.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "D17",
+      "name": "LiPo charging and storage bag",
+      "quantity_in_legacy_group_A": 0,
+      "unit_mass_g": null,
+      "basis": "excluded_or_counted_elsewhere",
+      "source_note": "Off-rover equipment; excluded.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "D18",
+      "name": "Drive-battery per-cell voltage alarm",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 10,
+      "basis": "historical_published_reference_not_reverified",
+      "source_note": "Reference product; task alarm counted separately.",
+      "source_label": "10 g alarm",
+      "source_url": "https://thinkrobotics.com/products/lipo-li-ion-battery-checker"
+    },
+    {
+      "id": "D19",
+      "name": "Drive main covered fuse holder and fitted 20 A fuse",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 18,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation; two spare fuses excluded.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "D20",
+      "name": "Motor branch fuse holder with fitted 5 A fuse",
+      "quantity_in_legacy_group_A": 4,
+      "unit_mass_g": 18,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation; four spare fuses excluded.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "D21",
+      "name": "Drive master disconnect switch",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 60,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation; one spare switch excluded.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "D22",
+      "name": "Installed drive power wires, 12, 14 and 16 AWG",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 100,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation; extra wire only, not supplied device leads.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "D23",
+      "name": "Drive XT60 mates, distribution terminals, ferrules and heat-shrink",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 60,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation; fitted pieces only.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "D24",
+      "name": "Motor suppression capacitor, 100 nF",
+      "quantity_in_legacy_group_A": 4,
+      "unit_mass_g": 0.2,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation; one per motor, eight unused excluded.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "D25",
+      "name": "Drive-battery strap, pad and nonprinted mounting pieces",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 20,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation; one printed enclosure in C.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "D26",
+      "name": "Drive-control glands, standoffs and mounting pads",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 25,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation; printed enclosure in C; ESC fans already included.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "D27",
+      "name": "Drive software, mixing and setup checks",
+      "quantity_in_legacy_group_A": 0,
+      "unit_mass_g": null,
+      "basis": "excluded_or_counted_elsewhere",
+      "source_note": "No additional hardware mass.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "T01",
+      "name": "Raspberry Pi 5, 8 GB",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 46,
+      "basis": "historical_published_reference_not_reverified",
+      "source_note": "Published sample reference; not a factory tolerance.",
+      "source_label": "Bare-board measurement",
+      "source_url": "https://gigazine.net/gsc_news/en/20231031-raspberry-pi-5-unboxing-ic"
+    },
+    {
+      "id": "T02",
+      "name": "Official Raspberry Pi 5 Active Cooler",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 25,
+      "basis": "historical_published_reference_not_reverified",
+      "source_note": "Derived reference: 71 g assembled minus 46 g board.",
+      "source_label": "Cooler measurement",
+      "source_url": "https://gigazine.net/gsc_news/en/20231101-raspberry-pi-5-active-cooler/"
+    },
+    {
+      "id": "T03",
+      "name": "SanDisk Extreme PRO 64 GB A2 microSD",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 1.66,
+      "basis": "historical_published_reference_not_reverified",
+      "source_note": "Manufacturer model SDSQXCU-064G-GN6MA.",
+      "source_label": "SanDisk specification",
+      "source_url": "https://www.sandisk.com/en-ae/products/memory-cards/microsd-cards/sandisk-extreme-pro-uhs-i-microsd?sku=SDSQXCU-064G-GN6MA"
+    },
+    {
+      "id": "T04",
+      "name": "Official RTC battery SC1163 and lead",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 3,
+      "basis": "historical_published_reference_not_reverified",
+      "source_note": "Supplier product mass.",
+      "source_label": "RTC battery",
+      "source_url": "https://www.reichelt.com/de/en/shop/product/raspberry_pi_-_rtc_battery_for_raspberry_pi_5-360117"
+    },
+    {
+      "id": "T05",
+      "name": "Raspberry Pi Camera Module 3 Standard",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 4,
+      "basis": "historical_published_reference_not_reverified",
+      "source_note": "Manufacturer module mass; FPC separate.",
+      "source_label": "Pi product catalogue",
+      "source_url": "https://datasheets.raspberrypi.com/product/product-catalogue-2023.pdf"
+    },
+    {
+      "id": "T06",
+      "name": "300 mm standard-to-mini camera FPC",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 3,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation; net cable mass not published.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "T07",
+      "name": "RTL-SDR Blog V3 USB dongle",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 32,
+      "basis": "historical_published_reference_not_reverified",
+      "source_note": "Model-specific supplier mass; antenna separate.",
+      "source_label": "WiMo specification",
+      "source_url": "https://www.wimo.com/en/rtl-sdr-v3-kit"
+    },
+    {
+      "id": "T08",
+      "name": "Passive VHF antenna, coax, connectors and mount",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 60,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation; exact antenna and cable length unselected.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "T09",
+      "name": "Shielded USB-A extension, 30 to 50 cm",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 25,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation; one fitted extension.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "T10",
+      "name": "Waveshare 7-inch HDMI LCD C Rev4.1",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 320,
+      "basis": "historical_published_reference_not_reverified",
+      "source_note": "Supplier panel mass; printed protective mount in C.",
+      "source_label": "320 g panel",
+      "source_url": "https://99tech.com.au/product/lcd-w70-1024x600-hdmi-c/"
+    },
+    {
+      "id": "T11",
+      "name": "Display micro-HDMI and USB cable pair",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 42,
+      "basis": "historical_published_reference_not_reverified",
+      "source_note": "Reference pair: 25 g HDMI plus 17 g USB; one pair only.",
+      "source_label": "Cable references",
+      "source_url": "https://www.startech.com/en-eu/cables/hdadmm50cm"
+    },
+    {
+      "id": "T12",
+      "name": "TF03-100 UART/CAN LiDAR, SEN0328 revision",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 77,
+      "basis": "historical_published_reference_not_reverified",
+      "source_note": "Supplier mass, tolerance 3 g; supplied 70 cm lead included.",
+      "source_label": "DFRobot SEN0328",
+      "source_url": "https://wiki.dfrobot.com/sen0328/"
+    },
+    {
+      "id": "T13",
+      "name": "CP2102 USB-A UART adapter",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 5,
+      "basis": "historical_published_reference_not_reverified",
+      "source_note": "Reference equivalent; purchased board variant unselected.",
+      "source_label": "5 g reference",
+      "source_url": "https://zigate.fr/produit/module-usb-ttl-cp2102/"
+    },
+    {
+      "id": "T14",
+      "name": "TF03 power and UART lead",
+      "quantity_in_legacy_group_A": 0,
+      "unit_mass_g": null,
+      "basis": "excluded_or_counted_elsewhere",
+      "source_note": "Already counted with T12; extra extension only in T34.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "T15",
+      "name": "TowerPro MG996R Robot 180 servo and metal horn",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 60,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "55 g servo plus 5 g fitted horn allocation.",
+      "source_label": "TowerPro specification",
+      "source_url": "https://towerpro.com.tw/product/mg995-robot-servo-180-rotation/"
+    },
+    {
+      "id": "T16",
+      "name": "FEETECH FS90 positional servo and horn",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 10,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "9 g servo plus 1 g horn/retention allocation.",
+      "source_label": "FEETECH datasheet",
+      "source_url": "https://www.pololu.com/file/0J1435/FS90-specs.pdf"
+    },
+    {
+      "id": "T17",
+      "name": "PCA9685 breakout with headers and terminal",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 9,
+      "basis": "historical_published_reference_not_reverified",
+      "source_note": "Assembled Adafruit reference equivalent.",
+      "source_label": "9 g reference",
+      "source_url": "https://www.adafruit.com/product/815"
+    },
+    {
+      "id": "T18",
+      "name": "SN74AHCT125N buffer, socket, capacitor and resistor",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 4,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation; its bypass capacitor counted here only.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "T19",
+      "name": "Pan-platform bearing and metal mounting pieces",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 20,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation; printed platform, plate and hood in C.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "T20",
+      "name": "LiDAR tilt-pivot metal mounting pieces",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 8,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation; printed cradle in C, horn already in T16.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "T21",
+      "name": "3S 2200 mAh 25C XT60 task battery",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 178,
+      "basis": "historical_published_reference_not_reverified",
+      "source_note": "Turnigy reference pack; one installed.",
+      "source_label": "178 g pack",
+      "source_url": "https://hobbyking.com/en_us/turnigy-2200mah-3s-25c-lipo-pack.html/?___from_store=en_us"
+    },
+    {
+      "id": "T22",
+      "name": "Task-battery strap, pad and nonprinted mounting pieces",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 20,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation; separate printed enclosure in C.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "T23",
+      "name": "Task main fuse, holder, switch, XT60 mate and short leads",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 60,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation: 18 g fuse set plus 20 g switch plus 22 g leads/connector.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "T24",
+      "name": "Kemo M148A battery guard",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 160,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation; manufacturer does not publish net mass.",
+      "source_label": "Kemo datasheet",
+      "source_url": "https://www.kemo-electronic.de/en/product_info_pdf.php?products_id=220"
+    },
+    {
+      "id": "T25",
+      "name": "Task-battery per-cell voltage alarm",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 10,
+      "basis": "historical_published_reference_not_reverified",
+      "source_note": "Reference product; additional to D18.",
+      "source_label": "10 g alarm",
+      "source_url": "https://thinkrobotics.com/products/lipo-li-ion-battery-checker"
+    },
+    {
+      "id": "T26",
+      "name": "52Pi EP-0225 PD board, USB-C lead and mount kit",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 60,
+      "basis": "unresolved_reference",
+      "source_note": "Vendor lists 60 g; board-only/net-kit basis unspecified.",
+      "source_label": "52Pi kit listing",
+      "source_url": "https://52pi.com/collections/hat-addons/products/52pi-pd-power-extension-adapter-board-for-raspberry-pi-5"
+    },
+    {
+      "id": "T27",
+      "name": "DC input pigtail for EP-0225",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 10,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation; extra input lead only.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "T28",
+      "name": "Hobbywing UBEC 3A, part 86010010",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 11,
+      "basis": "historical_published_reference_not_reverified",
+      "source_note": "Manufacturer product specification.",
+      "source_label": "Hobbywing specification",
+      "source_url": "https://www.hobbywingdirect.com/products/ubec-3a-2-6s-lipo-input"
+    },
+    {
+      "id": "T29",
+      "name": "DFRobot DFR0379 buck converter",
+      "quantity_in_legacy_group_A": 2,
+      "unit_mass_g": 22,
+      "basis": "historical_published_reference_not_reverified",
+      "source_note": "Manufacturer mass; one LiDAR and one tilt-servo supply.",
+      "source_label": "DFRobot specification",
+      "source_url": "https://www.dfrobot.com/product-1552.html"
+    },
+    {
+      "id": "T30",
+      "name": "Panasonic EEU-FR1E102E, 1000 microfarad 25 V capacitor",
+      "quantity_in_legacy_group_A": 3,
+      "unit_mass_g": 3.082,
+      "basis": "historical_published_reference_not_reverified",
+      "source_note": "Supplier unit mass for specified reference.",
+      "source_label": "3.082 g unit",
+      "source_url": "https://www.mouser.co.uk/en/ProductDetail/Panasonic-Industry/EEU-FR1E102E?qs=zR1FDKe%2FpuBUNZowDH12Tw%3D%3D"
+    },
+    {
+      "id": "T31",
+      "name": "100 microfarad 25 V input capacitor",
+      "quantity_in_legacy_group_A": 2,
+      "unit_mass_g": 0.5,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation; exact variant unselected.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "T32",
+      "name": "100 nF X7R bypass capacitor",
+      "quantity_in_legacy_group_A": 4,
+      "unit_mass_g": 0.2,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation; separate from buffer capacitor in T18.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "T33",
+      "name": "Task branch fuse and power harness kit",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 100,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation: four 18 g fuse sets plus 28 g feed/branches/terminals.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "T34",
+      "name": "Task signal wiring, perfboard, glands and standoffs",
+      "quantity_in_legacy_group_A": 1,
+      "unit_mass_g": 40,
+      "basis": "planning_allocation_or_mixed_reference",
+      "source_note": "Design allocation; printed enclosure in C; no duplicate supplied leads.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "T35",
+      "name": "Reused charger, power supply, bag and charge adapters",
+      "quantity_in_legacy_group_A": 0,
+      "unit_mass_g": null,
+      "basis": "excluded_or_counted_elsewhere",
+      "source_note": "Off-rover equipment; excluded.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "T36",
+      "name": "Operating system and interface software",
+      "quantity_in_legacy_group_A": 0,
+      "unit_mass_g": null,
+      "basis": "excluded_or_counted_elsewhere",
+      "source_note": "No additional hardware mass.",
+      "source_label": null,
+      "source_url": null
+    },
+    {
+      "id": "T37",
+      "name": "Task controller and results-viewer software",
+      "quantity_in_legacy_group_A": 0,
+      "unit_mass_g": null,
+      "basis": "excluded_or_counted_elsewhere",
+      "source_note": "Runs on T01; no additional hardware mass.",
+      "source_label": null,
+      "source_url": null
+    }
+  ]
+}

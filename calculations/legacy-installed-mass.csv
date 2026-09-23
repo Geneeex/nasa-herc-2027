@@ -1,0 +1,65 @@
+id,name,quantity,unit_mass_g,legacy_subtotal_g,basis,note
+D01,6061 aluminium chassis stock,0,,0.0,excluded_or_counted_elsewhere,Superseded by printed chassis in C.
+D02,"Suspension metal fasteners, pivots, spacers, nuts and retainers",1,250,250.0,planning_allocation_or_mixed_reference,Design allocation; printed arms and uprights in C.
+D03,Suspension pivot bearing and bushing kit,1,100,100.0,planning_allocation_or_mixed_reference,Design allocation; distinct from wheel bearings.
+D04,Complete coil-over spring and damper with end mounts,4,30,120.0,planning_allocation_or_mixed_reference,Design allocation; final shock size unselected.
+D05,Separate coil spring with seats and retainers,4,15,60.0,planning_allocation_or_mixed_reference,Design allocation; four additional springs.
+D06,"Metal wheel spindle, bearing, flange and retention set",4,75,300.0,planning_allocation_or_mixed_reference,Design allocation; two bearing positions per wheel.
+D07,6 mm brass hex wheel coupler,0,,0.0,excluded_or_counted_elsewhere,Four installed in B; one spare excluded.
+D08,"12 V 200 RPM gearmotor, Model 2343 candidate",4,290,1160.0,unresolved_reference,Team working value; net mass unresolved. Two spares excluded.
+D09,37 mm metal motor bracket,4,35,140.0,historical_published_reference_not_reverified,Reference bracket; one spare excluded.
+D10,PETG and TPU printing stock,0,,0.0,excluded_or_counted_elsewhere,Finished prints counted in B and C; unused stock excluded.
+D11,"New Rain-family brushed ESC, Model 4438",2,53,106.0,historical_published_reference_not_reverified,Supplier product mass; one spare excluded.
+D12,FlySky FS-iA10B receiver,1,19.3,19.3,historical_published_reference_not_reverified,Manufacturer mass; FS-i6X transmitter stays off-rover.
+D13,Transmitter AA batteries,0,,0.0,excluded_or_counted_elsewhere,All eight cells off-rover; excluded.
+D14,Optional LM2596 receiver backup kit,0,,0.0,excluded_or_counted_elsewhere,Optional backup not fitted; excluded.
+D15,Gens Ace 3S 5000 mAh 60C XT60 drive battery,1,380,380.0,historical_published_reference_not_reverified,Original non-G-Tech reference; one spare excluded.
+D16,"Balance charger, power supply and charge leads",0,,0.0,excluded_or_counted_elsewhere,Off-rover equipment; excluded.
+D17,LiPo charging and storage bag,0,,0.0,excluded_or_counted_elsewhere,Off-rover equipment; excluded.
+D18,Drive-battery per-cell voltage alarm,1,10,10.0,historical_published_reference_not_reverified,Reference product; task alarm counted separately.
+D19,Drive main covered fuse holder and fitted 20 A fuse,1,18,18.0,planning_allocation_or_mixed_reference,Design allocation; two spare fuses excluded.
+D20,Motor branch fuse holder with fitted 5 A fuse,4,18,72.0,planning_allocation_or_mixed_reference,Design allocation; four spare fuses excluded.
+D21,Drive master disconnect switch,1,60,60.0,planning_allocation_or_mixed_reference,Design allocation; one spare switch excluded.
+D22,"Installed drive power wires, 12, 14 and 16 AWG",1,100,100.0,planning_allocation_or_mixed_reference,"Design allocation; extra wire only, not supplied device leads."
+D23,"Drive XT60 mates, distribution terminals, ferrules and heat-shrink",1,60,60.0,planning_allocation_or_mixed_reference,Design allocation; fitted pieces only.
+D24,"Motor suppression capacitor, 100 nF",4,0.2,0.8,planning_allocation_or_mixed_reference,"Design allocation; one per motor, eight unused excluded."
+D25,"Drive-battery strap, pad and nonprinted mounting pieces",1,20,20.0,planning_allocation_or_mixed_reference,Design allocation; one printed enclosure in C.
+D26,"Drive-control glands, standoffs and mounting pads",1,25,25.0,planning_allocation_or_mixed_reference,Design allocation; printed enclosure in C; ESC fans already included.
+D27,"Drive software, mixing and setup checks",0,,0.0,excluded_or_counted_elsewhere,No additional hardware mass.
+T01,"Raspberry Pi 5, 8 GB",1,46,46.0,historical_published_reference_not_reverified,Published sample reference; not a factory tolerance.
+T02,Official Raspberry Pi 5 Active Cooler,1,25,25.0,historical_published_reference_not_reverified,Derived reference: 71 g assembled minus 46 g board.
+T03,SanDisk Extreme PRO 64 GB A2 microSD,1,1.66,1.66,historical_published_reference_not_reverified,Manufacturer model SDSQXCU-064G-GN6MA.
+T04,Official RTC battery SC1163 and lead,1,3,3.0,historical_published_reference_not_reverified,Supplier product mass.
+T05,Raspberry Pi Camera Module 3 Standard,1,4,4.0,historical_published_reference_not_reverified,Manufacturer module mass; FPC separate.
+T06,300 mm standard-to-mini camera FPC,1,3,3.0,planning_allocation_or_mixed_reference,Design allocation; net cable mass not published.
+T07,RTL-SDR Blog V3 USB dongle,1,32,32.0,historical_published_reference_not_reverified,Model-specific supplier mass; antenna separate.
+T08,"Passive VHF antenna, coax, connectors and mount",1,60,60.0,planning_allocation_or_mixed_reference,Design allocation; exact antenna and cable length unselected.
+T09,"Shielded USB-A extension, 30 to 50 cm",1,25,25.0,planning_allocation_or_mixed_reference,Design allocation; one fitted extension.
+T10,Waveshare 7-inch HDMI LCD C Rev4.1,1,320,320.0,historical_published_reference_not_reverified,Supplier panel mass; printed protective mount in C.
+T11,Display micro-HDMI and USB cable pair,1,42,42.0,historical_published_reference_not_reverified,Reference pair: 25 g HDMI plus 17 g USB; one pair only.
+T12,"TF03-100 UART/CAN LiDAR, SEN0328 revision",1,77,77.0,historical_published_reference_not_reverified,"Supplier mass, tolerance 3 g; supplied 70 cm lead included."
+T13,CP2102 USB-A UART adapter,1,5,5.0,historical_published_reference_not_reverified,Reference equivalent; purchased board variant unselected.
+T14,TF03 power and UART lead,0,,0.0,excluded_or_counted_elsewhere,Already counted with T12; extra extension only in T34.
+T15,TowerPro MG996R Robot 180 servo and metal horn,1,60,60.0,planning_allocation_or_mixed_reference,55 g servo plus 5 g fitted horn allocation.
+T16,FEETECH FS90 positional servo and horn,1,10,10.0,planning_allocation_or_mixed_reference,9 g servo plus 1 g horn/retention allocation.
+T17,PCA9685 breakout with headers and terminal,1,9,9.0,historical_published_reference_not_reverified,Assembled Adafruit reference equivalent.
+T18,"SN74AHCT125N buffer, socket, capacitor and resistor",1,4,4.0,planning_allocation_or_mixed_reference,Design allocation; its bypass capacitor counted here only.
+T19,Pan-platform bearing and metal mounting pieces,1,20,20.0,planning_allocation_or_mixed_reference,"Design allocation; printed platform, plate and hood in C."
+T20,LiDAR tilt-pivot metal mounting pieces,1,8,8.0,planning_allocation_or_mixed_reference,"Design allocation; printed cradle in C, horn already in T16."
+T21,3S 2200 mAh 25C XT60 task battery,1,178,178.0,historical_published_reference_not_reverified,Turnigy reference pack; one installed.
+T22,"Task-battery strap, pad and nonprinted mounting pieces",1,20,20.0,planning_allocation_or_mixed_reference,Design allocation; separate printed enclosure in C.
+T23,"Task main fuse, holder, switch, XT60 mate and short leads",1,60,60.0,planning_allocation_or_mixed_reference,Design allocation: 18 g fuse set plus 20 g switch plus 22 g leads/connector.
+T24,Kemo M148A battery guard,1,160,160.0,planning_allocation_or_mixed_reference,Design allocation; manufacturer does not publish net mass.
+T25,Task-battery per-cell voltage alarm,1,10,10.0,historical_published_reference_not_reverified,Reference product; additional to D18.
+T26,"52Pi EP-0225 PD board, USB-C lead and mount kit",1,60,60.0,unresolved_reference,Vendor lists 60 g; board-only/net-kit basis unspecified.
+T27,DC input pigtail for EP-0225,1,10,10.0,planning_allocation_or_mixed_reference,Design allocation; extra input lead only.
+T28,"Hobbywing UBEC 3A, part 86010010",1,11,11.0,historical_published_reference_not_reverified,Manufacturer product specification.
+T29,DFRobot DFR0379 buck converter,2,22,44.0,historical_published_reference_not_reverified,Manufacturer mass; one LiDAR and one tilt-servo supply.
+T30,"Panasonic EEU-FR1E102E, 1000 microfarad 25 V capacitor",3,3.082,9.246,historical_published_reference_not_reverified,Supplier unit mass for specified reference.
+T31,100 microfarad 25 V input capacitor,2,0.5,1.0,planning_allocation_or_mixed_reference,Design allocation; exact variant unselected.
+T32,100 nF X7R bypass capacitor,4,0.2,0.8,planning_allocation_or_mixed_reference,Design allocation; separate from buffer capacitor in T18.
+T33,Task branch fuse and power harness kit,1,100,100.0,planning_allocation_or_mixed_reference,Design allocation: four 18 g fuse sets plus 28 g feed/branches/terminals.
+T34,"Task signal wiring, perfboard, glands and standoffs",1,40,40.0,planning_allocation_or_mixed_reference,Design allocation; printed enclosure in C; no duplicate supplied leads.
+T35,"Reused charger, power supply, bag and charge adapters",0,,0.0,excluded_or_counted_elsewhere,Off-rover equipment; excluded.
+T36,Operating system and interface software,0,,0.0,excluded_or_counted_elsewhere,No additional hardware mass.
+T37,Task controller and results-viewer software,0,,0.0,excluded_or_counted_elsewhere,Runs on T01; no additional hardware mass.

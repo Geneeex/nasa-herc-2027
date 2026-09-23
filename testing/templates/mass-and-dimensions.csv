@@ -1,0 +1,2 @@
+"run_id","test_id","measurement_id","status","measured_at_iso8601","configuration_id","item","measured_mass_kg","measured_length_mm","measured_width_mm","measured_height_including_antenna_mm","measured_camera_head_height_mm","measured_wheel_diameter_mm","measured_wheel_width_mm","measured_rim_lip_diameter_mm","mass_uncertainty_kg","dimension_uncertainty_mm","instrument_id","criterion_ref","evidence_path","not_measured_reason","notes"
+"","","","NOT_RUN","","","","","","","","","","","","","","","","","",""

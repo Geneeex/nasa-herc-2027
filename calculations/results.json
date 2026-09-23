@@ -1,0 +1,759 @@
+{
+  "team": "NASA HERC 2027 TEAM BANGLADESH",
+  "calculation_status": "Reproduced analytical arithmetic only; no hardware test or current mass validation.",
+  "current_verified_installed_mass_kg": null,
+  "hardware_test_results_included": false,
+  "dimensions": [
+    {
+      "name": "Overall wheel diameter",
+      "mm": 215,
+      "inches": 8.464566929133857
+    },
+    {
+      "name": "Overall wheel width",
+      "mm": 90,
+      "inches": 3.543307086614173
+    },
+    {
+      "name": "Rim lip outer diameter",
+      "mm": 188,
+      "inches": 7.4015748031496065
+    },
+    {
+      "name": "Rim lip to tread peak",
+      "mm": 13.5,
+      "inches": 0.531496062992126
+    },
+    {
+      "name": "Rover length",
+      "mm": 655,
+      "inches": 25.787401574803148
+    },
+    {
+      "name": "Rover width",
+      "mm": 630,
+      "inches": 24.80314960629921
+    },
+    {
+      "name": "Ground to camera top, excluding antenna",
+      "mm": 421,
+      "inches": 16.5748031496063
+    }
+  ],
+  "rim_to_tread_span_mm": 13.5,
+  "speed": {
+    "scenarios": [
+      {
+        "wheel_rpm": 190,
+        "kmh": 7.700043593948582,
+        "mph": 4.784585268251276
+      },
+      {
+        "wheel_rpm": 200,
+        "kmh": 8.105309046261665,
+        "mph": 5.036405545527659
+      }
+    ],
+    "mph_ceiling": 5.0,
+    "equivalent_kmh_ceiling": 8.04672,
+    "wheel_rpm_at_mph_ceiling": 198.554304445956,
+    "engineering_target_kmh": 8.0,
+    "wheel_rpm_at_engineering_target": 197.4014798039012
+  },
+  "batteries": [
+    {
+      "system": "drive",
+      "nominal_voltage_V": 11.1,
+      "fully_charged_voltage_V": 12.6,
+      "capacity_mAh": 5000,
+      "nominal_energy_Wh": 55.5
+    },
+    {
+      "system": "task",
+      "nominal_voltage_V": 11.1,
+      "fully_charged_voltage_V": 12.6,
+      "capacity_mAh": 2200,
+      "nominal_energy_Wh": 24.42
+    }
+  ],
+  "total_nominal_stored_energy_Wh": 79.92,
+  "legacy_installed_equipment": {
+    "drive_g": 3001.1,
+    "task_g": 1458.706,
+    "group_A_kg": 4.459806,
+    "rows": [
+      {
+        "id": "D01",
+        "name": "6061 aluminium chassis stock",
+        "quantity": 0,
+        "unit_mass_g": null,
+        "legacy_subtotal_g": 0.0,
+        "basis": "excluded_or_counted_elsewhere",
+        "note": "Superseded by printed chassis in C."
+      },
+      {
+        "id": "D02",
+        "name": "Suspension metal fasteners, pivots, spacers, nuts and retainers",
+        "quantity": 1,
+        "unit_mass_g": 250,
+        "legacy_subtotal_g": 250.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation; printed arms and uprights in C."
+      },
+      {
+        "id": "D03",
+        "name": "Suspension pivot bearing and bushing kit",
+        "quantity": 1,
+        "unit_mass_g": 100,
+        "legacy_subtotal_g": 100.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation; distinct from wheel bearings."
+      },
+      {
+        "id": "D04",
+        "name": "Complete coil-over spring and damper with end mounts",
+        "quantity": 4,
+        "unit_mass_g": 30,
+        "legacy_subtotal_g": 120.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation; final shock size unselected."
+      },
+      {
+        "id": "D05",
+        "name": "Separate coil spring with seats and retainers",
+        "quantity": 4,
+        "unit_mass_g": 15,
+        "legacy_subtotal_g": 60.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation; four additional springs."
+      },
+      {
+        "id": "D06",
+        "name": "Metal wheel spindle, bearing, flange and retention set",
+        "quantity": 4,
+        "unit_mass_g": 75,
+        "legacy_subtotal_g": 300.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation; two bearing positions per wheel."
+      },
+      {
+        "id": "D07",
+        "name": "6 mm brass hex wheel coupler",
+        "quantity": 0,
+        "unit_mass_g": null,
+        "legacy_subtotal_g": 0.0,
+        "basis": "excluded_or_counted_elsewhere",
+        "note": "Four installed in B; one spare excluded."
+      },
+      {
+        "id": "D08",
+        "name": "12 V 200 RPM gearmotor, Model 2343 candidate",
+        "quantity": 4,
+        "unit_mass_g": 290,
+        "legacy_subtotal_g": 1160.0,
+        "basis": "unresolved_reference",
+        "note": "Team working value; net mass unresolved. Two spares excluded."
+      },
+      {
+        "id": "D09",
+        "name": "37 mm metal motor bracket",
+        "quantity": 4,
+        "unit_mass_g": 35,
+        "legacy_subtotal_g": 140.0,
+        "basis": "historical_published_reference_not_reverified",
+        "note": "Reference bracket; one spare excluded."
+      },
+      {
+        "id": "D10",
+        "name": "PETG and TPU printing stock",
+        "quantity": 0,
+        "unit_mass_g": null,
+        "legacy_subtotal_g": 0.0,
+        "basis": "excluded_or_counted_elsewhere",
+        "note": "Finished prints counted in B and C; unused stock excluded."
+      },
+      {
+        "id": "D11",
+        "name": "New Rain-family brushed ESC, Model 4438",
+        "quantity": 2,
+        "unit_mass_g": 53,
+        "legacy_subtotal_g": 106.0,
+        "basis": "historical_published_reference_not_reverified",
+        "note": "Supplier product mass; one spare excluded."
+      },
+      {
+        "id": "D12",
+        "name": "FlySky FS-iA10B receiver",
+        "quantity": 1,
+        "unit_mass_g": 19.3,
+        "legacy_subtotal_g": 19.3,
+        "basis": "historical_published_reference_not_reverified",
+        "note": "Manufacturer mass; FS-i6X transmitter stays off-rover."
+      },
+      {
+        "id": "D13",
+        "name": "Transmitter AA batteries",
+        "quantity": 0,
+        "unit_mass_g": null,
+        "legacy_subtotal_g": 0.0,
+        "basis": "excluded_or_counted_elsewhere",
+        "note": "All eight cells off-rover; excluded."
+      },
+      {
+        "id": "D14",
+        "name": "Optional LM2596 receiver backup kit",
+        "quantity": 0,
+        "unit_mass_g": null,
+        "legacy_subtotal_g": 0.0,
+        "basis": "excluded_or_counted_elsewhere",
+        "note": "Optional backup not fitted; excluded."
+      },
+      {
+        "id": "D15",
+        "name": "Gens Ace 3S 5000 mAh 60C XT60 drive battery",
+        "quantity": 1,
+        "unit_mass_g": 380,
+        "legacy_subtotal_g": 380.0,
+        "basis": "historical_published_reference_not_reverified",
+        "note": "Original non-G-Tech reference; one spare excluded."
+      },
+      {
+        "id": "D16",
+        "name": "Balance charger, power supply and charge leads",
+        "quantity": 0,
+        "unit_mass_g": null,
+        "legacy_subtotal_g": 0.0,
+        "basis": "excluded_or_counted_elsewhere",
+        "note": "Off-rover equipment; excluded."
+      },
+      {
+        "id": "D17",
+        "name": "LiPo charging and storage bag",
+        "quantity": 0,
+        "unit_mass_g": null,
+        "legacy_subtotal_g": 0.0,
+        "basis": "excluded_or_counted_elsewhere",
+        "note": "Off-rover equipment; excluded."
+      },
+      {
+        "id": "D18",
+        "name": "Drive-battery per-cell voltage alarm",
+        "quantity": 1,
+        "unit_mass_g": 10,
+        "legacy_subtotal_g": 10.0,
+        "basis": "historical_published_reference_not_reverified",
+        "note": "Reference product; task alarm counted separately."
+      },
+      {
+        "id": "D19",
+        "name": "Drive main covered fuse holder and fitted 20 A fuse",
+        "quantity": 1,
+        "unit_mass_g": 18,
+        "legacy_subtotal_g": 18.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation; two spare fuses excluded."
+      },
+      {
+        "id": "D20",
+        "name": "Motor branch fuse holder with fitted 5 A fuse",
+        "quantity": 4,
+        "unit_mass_g": 18,
+        "legacy_subtotal_g": 72.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation; four spare fuses excluded."
+      },
+      {
+        "id": "D21",
+        "name": "Drive master disconnect switch",
+        "quantity": 1,
+        "unit_mass_g": 60,
+        "legacy_subtotal_g": 60.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation; one spare switch excluded."
+      },
+      {
+        "id": "D22",
+        "name": "Installed drive power wires, 12, 14 and 16 AWG",
+        "quantity": 1,
+        "unit_mass_g": 100,
+        "legacy_subtotal_g": 100.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation; extra wire only, not supplied device leads."
+      },
+      {
+        "id": "D23",
+        "name": "Drive XT60 mates, distribution terminals, ferrules and heat-shrink",
+        "quantity": 1,
+        "unit_mass_g": 60,
+        "legacy_subtotal_g": 60.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation; fitted pieces only."
+      },
+      {
+        "id": "D24",
+        "name": "Motor suppression capacitor, 100 nF",
+        "quantity": 4,
+        "unit_mass_g": 0.2,
+        "legacy_subtotal_g": 0.8,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation; one per motor, eight unused excluded."
+      },
+      {
+        "id": "D25",
+        "name": "Drive-battery strap, pad and nonprinted mounting pieces",
+        "quantity": 1,
+        "unit_mass_g": 20,
+        "legacy_subtotal_g": 20.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation; one printed enclosure in C."
+      },
+      {
+        "id": "D26",
+        "name": "Drive-control glands, standoffs and mounting pads",
+        "quantity": 1,
+        "unit_mass_g": 25,
+        "legacy_subtotal_g": 25.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation; printed enclosure in C; ESC fans already included."
+      },
+      {
+        "id": "D27",
+        "name": "Drive software, mixing and setup checks",
+        "quantity": 0,
+        "unit_mass_g": null,
+        "legacy_subtotal_g": 0.0,
+        "basis": "excluded_or_counted_elsewhere",
+        "note": "No additional hardware mass."
+      },
+      {
+        "id": "T01",
+        "name": "Raspberry Pi 5, 8 GB",
+        "quantity": 1,
+        "unit_mass_g": 46,
+        "legacy_subtotal_g": 46.0,
+        "basis": "historical_published_reference_not_reverified",
+        "note": "Published sample reference; not a factory tolerance."
+      },
+      {
+        "id": "T02",
+        "name": "Official Raspberry Pi 5 Active Cooler",
+        "quantity": 1,
+        "unit_mass_g": 25,
+        "legacy_subtotal_g": 25.0,
+        "basis": "historical_published_reference_not_reverified",
+        "note": "Derived reference: 71 g assembled minus 46 g board."
+      },
+      {
+        "id": "T03",
+        "name": "SanDisk Extreme PRO 64 GB A2 microSD",
+        "quantity": 1,
+        "unit_mass_g": 1.66,
+        "legacy_subtotal_g": 1.66,
+        "basis": "historical_published_reference_not_reverified",
+        "note": "Manufacturer model SDSQXCU-064G-GN6MA."
+      },
+      {
+        "id": "T04",
+        "name": "Official RTC battery SC1163 and lead",
+        "quantity": 1,
+        "unit_mass_g": 3,
+        "legacy_subtotal_g": 3.0,
+        "basis": "historical_published_reference_not_reverified",
+        "note": "Supplier product mass."
+      },
+      {
+        "id": "T05",
+        "name": "Raspberry Pi Camera Module 3 Standard",
+        "quantity": 1,
+        "unit_mass_g": 4,
+        "legacy_subtotal_g": 4.0,
+        "basis": "historical_published_reference_not_reverified",
+        "note": "Manufacturer module mass; FPC separate."
+      },
+      {
+        "id": "T06",
+        "name": "300 mm standard-to-mini camera FPC",
+        "quantity": 1,
+        "unit_mass_g": 3,
+        "legacy_subtotal_g": 3.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation; net cable mass not published."
+      },
+      {
+        "id": "T07",
+        "name": "RTL-SDR Blog V3 USB dongle",
+        "quantity": 1,
+        "unit_mass_g": 32,
+        "legacy_subtotal_g": 32.0,
+        "basis": "historical_published_reference_not_reverified",
+        "note": "Model-specific supplier mass; antenna separate."
+      },
+      {
+        "id": "T08",
+        "name": "Passive VHF antenna, coax, connectors and mount",
+        "quantity": 1,
+        "unit_mass_g": 60,
+        "legacy_subtotal_g": 60.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation; exact antenna and cable length unselected."
+      },
+      {
+        "id": "T09",
+        "name": "Shielded USB-A extension, 30 to 50 cm",
+        "quantity": 1,
+        "unit_mass_g": 25,
+        "legacy_subtotal_g": 25.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation; one fitted extension."
+      },
+      {
+        "id": "T10",
+        "name": "Waveshare 7-inch HDMI LCD C Rev4.1",
+        "quantity": 1,
+        "unit_mass_g": 320,
+        "legacy_subtotal_g": 320.0,
+        "basis": "historical_published_reference_not_reverified",
+        "note": "Supplier panel mass; printed protective mount in C."
+      },
+      {
+        "id": "T11",
+        "name": "Display micro-HDMI and USB cable pair",
+        "quantity": 1,
+        "unit_mass_g": 42,
+        "legacy_subtotal_g": 42.0,
+        "basis": "historical_published_reference_not_reverified",
+        "note": "Reference pair: 25 g HDMI plus 17 g USB; one pair only."
+      },
+      {
+        "id": "T12",
+        "name": "TF03-100 UART/CAN LiDAR, SEN0328 revision",
+        "quantity": 1,
+        "unit_mass_g": 77,
+        "legacy_subtotal_g": 77.0,
+        "basis": "historical_published_reference_not_reverified",
+        "note": "Supplier mass, tolerance 3 g; supplied 70 cm lead included."
+      },
+      {
+        "id": "T13",
+        "name": "CP2102 USB-A UART adapter",
+        "quantity": 1,
+        "unit_mass_g": 5,
+        "legacy_subtotal_g": 5.0,
+        "basis": "historical_published_reference_not_reverified",
+        "note": "Reference equivalent; purchased board variant unselected."
+      },
+      {
+        "id": "T14",
+        "name": "TF03 power and UART lead",
+        "quantity": 0,
+        "unit_mass_g": null,
+        "legacy_subtotal_g": 0.0,
+        "basis": "excluded_or_counted_elsewhere",
+        "note": "Already counted with T12; extra extension only in T34."
+      },
+      {
+        "id": "T15",
+        "name": "TowerPro MG996R Robot 180 servo and metal horn",
+        "quantity": 1,
+        "unit_mass_g": 60,
+        "legacy_subtotal_g": 60.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "55 g servo plus 5 g fitted horn allocation."
+      },
+      {
+        "id": "T16",
+        "name": "FEETECH FS90 positional servo and horn",
+        "quantity": 1,
+        "unit_mass_g": 10,
+        "legacy_subtotal_g": 10.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "9 g servo plus 1 g horn/retention allocation."
+      },
+      {
+        "id": "T17",
+        "name": "PCA9685 breakout with headers and terminal",
+        "quantity": 1,
+        "unit_mass_g": 9,
+        "legacy_subtotal_g": 9.0,
+        "basis": "historical_published_reference_not_reverified",
+        "note": "Assembled Adafruit reference equivalent."
+      },
+      {
+        "id": "T18",
+        "name": "SN74AHCT125N buffer, socket, capacitor and resistor",
+        "quantity": 1,
+        "unit_mass_g": 4,
+        "legacy_subtotal_g": 4.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation; its bypass capacitor counted here only."
+      },
+      {
+        "id": "T19",
+        "name": "Pan-platform bearing and metal mounting pieces",
+        "quantity": 1,
+        "unit_mass_g": 20,
+        "legacy_subtotal_g": 20.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation; printed platform, plate and hood in C."
+      },
+      {
+        "id": "T20",
+        "name": "LiDAR tilt-pivot metal mounting pieces",
+        "quantity": 1,
+        "unit_mass_g": 8,
+        "legacy_subtotal_g": 8.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation; printed cradle in C, horn already in T16."
+      },
+      {
+        "id": "T21",
+        "name": "3S 2200 mAh 25C XT60 task battery",
+        "quantity": 1,
+        "unit_mass_g": 178,
+        "legacy_subtotal_g": 178.0,
+        "basis": "historical_published_reference_not_reverified",
+        "note": "Turnigy reference pack; one installed."
+      },
+      {
+        "id": "T22",
+        "name": "Task-battery strap, pad and nonprinted mounting pieces",
+        "quantity": 1,
+        "unit_mass_g": 20,
+        "legacy_subtotal_g": 20.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation; separate printed enclosure in C."
+      },
+      {
+        "id": "T23",
+        "name": "Task main fuse, holder, switch, XT60 mate and short leads",
+        "quantity": 1,
+        "unit_mass_g": 60,
+        "legacy_subtotal_g": 60.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation: 18 g fuse set plus 20 g switch plus 22 g leads/connector."
+      },
+      {
+        "id": "T24",
+        "name": "Kemo M148A battery guard",
+        "quantity": 1,
+        "unit_mass_g": 160,
+        "legacy_subtotal_g": 160.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation; manufacturer does not publish net mass."
+      },
+      {
+        "id": "T25",
+        "name": "Task-battery per-cell voltage alarm",
+        "quantity": 1,
+        "unit_mass_g": 10,
+        "legacy_subtotal_g": 10.0,
+        "basis": "historical_published_reference_not_reverified",
+        "note": "Reference product; additional to D18."
+      },
+      {
+        "id": "T26",
+        "name": "52Pi EP-0225 PD board, USB-C lead and mount kit",
+        "quantity": 1,
+        "unit_mass_g": 60,
+        "legacy_subtotal_g": 60.0,
+        "basis": "unresolved_reference",
+        "note": "Vendor lists 60 g; board-only/net-kit basis unspecified."
+      },
+      {
+        "id": "T27",
+        "name": "DC input pigtail for EP-0225",
+        "quantity": 1,
+        "unit_mass_g": 10,
+        "legacy_subtotal_g": 10.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation; extra input lead only."
+      },
+      {
+        "id": "T28",
+        "name": "Hobbywing UBEC 3A, part 86010010",
+        "quantity": 1,
+        "unit_mass_g": 11,
+        "legacy_subtotal_g": 11.0,
+        "basis": "historical_published_reference_not_reverified",
+        "note": "Manufacturer product specification."
+      },
+      {
+        "id": "T29",
+        "name": "DFRobot DFR0379 buck converter",
+        "quantity": 2,
+        "unit_mass_g": 22,
+        "legacy_subtotal_g": 44.0,
+        "basis": "historical_published_reference_not_reverified",
+        "note": "Manufacturer mass; one LiDAR and one tilt-servo supply."
+      },
+      {
+        "id": "T30",
+        "name": "Panasonic EEU-FR1E102E, 1000 microfarad 25 V capacitor",
+        "quantity": 3,
+        "unit_mass_g": 3.082,
+        "legacy_subtotal_g": 9.246,
+        "basis": "historical_published_reference_not_reverified",
+        "note": "Supplier unit mass for specified reference."
+      },
+      {
+        "id": "T31",
+        "name": "100 microfarad 25 V input capacitor",
+        "quantity": 2,
+        "unit_mass_g": 0.5,
+        "legacy_subtotal_g": 1.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation; exact variant unselected."
+      },
+      {
+        "id": "T32",
+        "name": "100 nF X7R bypass capacitor",
+        "quantity": 4,
+        "unit_mass_g": 0.2,
+        "legacy_subtotal_g": 0.8,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation; separate from buffer capacitor in T18."
+      },
+      {
+        "id": "T33",
+        "name": "Task branch fuse and power harness kit",
+        "quantity": 1,
+        "unit_mass_g": 100,
+        "legacy_subtotal_g": 100.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation: four 18 g fuse sets plus 28 g feed/branches/terminals."
+      },
+      {
+        "id": "T34",
+        "name": "Task signal wiring, perfboard, glands and standoffs",
+        "quantity": 1,
+        "unit_mass_g": 40,
+        "legacy_subtotal_g": 40.0,
+        "basis": "planning_allocation_or_mixed_reference",
+        "note": "Design allocation; printed enclosure in C; no duplicate supplied leads."
+      },
+      {
+        "id": "T35",
+        "name": "Reused charger, power supply, bag and charge adapters",
+        "quantity": 0,
+        "unit_mass_g": null,
+        "legacy_subtotal_g": 0.0,
+        "basis": "excluded_or_counted_elsewhere",
+        "note": "Off-rover equipment; excluded."
+      },
+      {
+        "id": "T36",
+        "name": "Operating system and interface software",
+        "quantity": 0,
+        "unit_mass_g": null,
+        "legacy_subtotal_g": 0.0,
+        "basis": "excluded_or_counted_elsewhere",
+        "note": "No additional hardware mass."
+      },
+      {
+        "id": "T37",
+        "name": "Task controller and results-viewer software",
+        "quantity": 0,
+        "unit_mass_g": null,
+        "legacy_subtotal_g": 0.0,
+        "basis": "excluded_or_counted_elsewhere",
+        "note": "Runs on T01; no additional hardware mass."
+      }
+    ]
+  },
+  "legacy_wheel_185mm_rim": {
+    "barrel_volume_cm3": 154.37786299740245,
+    "rim_polymer_volume_cm3": 226.25286299740245,
+    "carcass_envelope_cm3": 551.3495107050087,
+    "carcass_core_cm3": 271.4109858030518,
+    "carcass_skins_cm3": 279.9385249019569,
+    "carcass_core_outer_diameter_mm": 200.2,
+    "carcass_core_inner_diameter_mm": 189.8,
+    "carcass_core_width_mm": 85.2,
+    "filled_tyre_and_tread_cm3": 380.65017277241463,
+    "rim_kg": 0.28734113600670114,
+    "tyre_kg": 0.4605867090546217,
+    "legacy_hex_coupler_kg": 0.018600000000000002,
+    "one_wheel_kg": 0.7665278450613228,
+    "all_wheels_kg": 3.066111380245291,
+    "count": 4,
+    "sum_of_source_displayed_parts_one_wheel_kg": 0.7665,
+    "sum_of_source_displayed_parts_all_wheels_kg": 3.066
+  },
+  "updated_source_wheel_188mm_rim": {
+    "barrel_volume_cm3": 156.92255304681018,
+    "rim_polymer_volume_cm3": 228.79755304681018,
+    "carcass_envelope_cm3": 472.2520616692517,
+    "carcass_core_cm3": 194.60488878511683,
+    "carcass_skins_cm3": 277.6471728841349,
+    "carcass_core_outer_diameter_mm": 200.2,
+    "carcass_core_inner_diameter_mm": 192.8,
+    "carcass_core_width_mm": 85.2,
+    "filled_tyre_and_tread_cm3": 366.8379062019024,
+    "rim_kg": 0.29057289236944894,
+    "tyre_kg": 0.4438738665043019,
+    "legacy_hex_coupler_kg": 0.018600000000000002,
+    "one_wheel_kg": 0.7530467588737508,
+    "all_wheels_kg": 3.0121870354950033,
+    "count": 4,
+    "sum_of_source_displayed_parts_one_wheel_kg": 0.7531,
+    "sum_of_source_displayed_parts_all_wheels_kg": 3.0124
+  },
+  "legacy_printed_body": {
+    "parts": [
+      {
+        "name": "Chassis deck",
+        "solid_cm3": 391.68,
+        "core_cm3": 593.92,
+        "mass_kg": 0.743424
+      },
+      {
+        "name": "Frame rails",
+        "solid_cm3": 432.375904,
+        "core_cm3": 207.624096,
+        "mass_kg": 0.6173842774
+      },
+      {
+        "name": "Four suspension arm and bracket sets",
+        "solid_cm3": 280,
+        "core_cm3": 120,
+        "mass_kg": 0.39325
+      },
+      {
+        "name": "Outer covering",
+        "solid_cm3": 840,
+        "core_cm3": 0,
+        "mass_kg": 1.0164
+      },
+      {
+        "name": "Two battery and two electronics enclosures",
+        "solid_cm3": 340,
+        "core_cm3": 0,
+        "mass_kg": 0.4114
+      },
+      {
+        "name": "Guards, mast and sensor/display supports",
+        "solid_cm3": 200,
+        "core_cm3": 50,
+        "mass_kg": 0.2646875
+      }
+    ],
+    "group_C_kg": 3.4465457774
+  },
+  "mass_audit": {
+    "group_A_carry_kg": 4.46,
+    "updated_group_B_carry_kg": 3.012,
+    "legacy_group_C_carry_kg": 3.447,
+    "pre_wheel_update_carry_total_kg": 10.973,
+    "updated_source_carry_total_kg": 10.919,
+    "updated_source_unrounded_total_kg": 10.918538812895004,
+    "source_documented_estimate_kg": 10.919,
+    "source_documented_estimate_lb": 24.072274407966784,
+    "carry_total_matches_source": true,
+    "scoring_target_kg": 9.0718474,
+    "source_estimate_gap_above_target_kg": 1.8471526,
+    "source_estimate_gap_above_target_lb": 4.072274407966783,
+    "handbook_maximum_kg": 27.2155422,
+    "updated_wheel_delta_kg": -0.053924344750287734,
+    "current_configuration_reconciled": false
+  }
+}

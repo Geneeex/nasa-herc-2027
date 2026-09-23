@@ -1,0 +1,37 @@
+{
+  "record_type": "HISTORICAL_CAD_GEOMETRY_CHECK",
+  "recorded_date": "2026-09-15",
+  "physical_test": false,
+  "scope": "Recorded checks of the concept task scene, not hardware operation or a new inspection of every release asset.",
+  "record": {
+    "status": "PASS",
+    "blender_reopened": true,
+    "scenes": [
+      "01 | Both tasks - site overview",
+      "02 | Target geometry and dimensions",
+      "03 | Rover image capture",
+      "04 | Distance measurement",
+      "05 | Captures and distance results",
+      "06 | SIM RED CIRCLE",
+      "07 | SIM BLUE SQUARE",
+      "08 | SIM GREEN TRIANGLE"
+    ],
+    "source_parts": 1062,
+    "rover_dimensions_m": [
+      0.6550775468349457,
+      0.6300000548362732,
+      0.4320000330917537
+    ],
+    "packed_capture_images": 3,
+    "verified": [
+      "Original rover envelope and independent part count",
+      "Target board widths/heights",
+      "Triangle vertical extent and elevation",
+      "Horizontal and slant ranges independently recomputed",
+      "14 commands and30second spacing",
+      "Three date/time stamps",
+      "All capture images packed",
+      "Team branding in visible typography"
+    ]
+  }
+}

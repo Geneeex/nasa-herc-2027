@@ -1,0 +1,24 @@
+name: Calculations and support-package checks
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - name: Check arithmetic
+        run: python -m unittest discover -s tests -v
+      - name: Reproduce calculation report
+        run: python calculations/calculate.py
+      - name: Verify files and relative links
+        run: python tools/verify_package.py

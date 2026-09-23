@@ -1,0 +1,21 @@
+{
+  "prepared_date": "2026-09-23",
+  "scope": "Unmodified concept-model bytes under public package filenames; not a manufacturing release",
+  "files": [
+    {
+      "name": "NASA-HERC-2027-Team-Bangladesh-Tasks.blend",
+      "bytes": 18569251,
+      "sha256": "6e30ef6f8a820c9c2da550e68e58de70c8d8a46b82c3c782273595e1b5666381"
+    },
+    {
+      "name": "NASA-HERC-2027-Rover-Concept.blend",
+      "bytes": 13107640,
+      "sha256": "c43a42618f693649ca8cf03545c3719c9cfb67ca425d158864b0b408954539c7"
+    },
+    {
+      "name": "NASA-HERC-2027-Rover-Concept-mm.stl",
+      "bytes": 40358284,
+      "sha256": "dc31b42b48c642dfd41c1144c7b431a415462a9ceb4dbf2fe996d53f86faff12"
+    }
+  ]
+}

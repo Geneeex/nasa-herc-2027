@@ -1,0 +1,2 @@
+"run_id","test_id","measurement_id","status","measured_at_iso8601","direction_or_mixed_command","battery_voltage_V","load_kg","surface","slope_degrees","power_cycle_case","limiter_settings_ref","distance_m","elapsed_time_s","measured_max_speed_kmh","speed_uncertainty_kmh","stop_trigger","stop_response_time_s","stopping_distance_m","left_failsafe_pwm_us","right_failsafe_pwm_us","restart_behaviour","instrument_id","criterion_ref","evidence_path","not_measured_reason","notes"
+"","","","NOT_RUN","","","","","","","","","","","","","","","","","","","","","","",""

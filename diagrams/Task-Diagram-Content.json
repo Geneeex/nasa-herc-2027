@@ -1,0 +1,3190 @@
+{
+  "page_size": [
+    2400,
+    1900
+  ],
+  "pages": [
+    {
+      "number": 1,
+      "title": "Task system: power and hardware",
+      "text": [
+        {
+          "text": "NASA HERC 2027 TEAM BANGLADESH",
+          "x": 80,
+          "y": 36,
+          "width": 415.98,
+          "size": 22
+        },
+        {
+          "text": "Task system: power and hardware",
+          "x": 80,
+          "y": 82,
+          "width": 784.94,
+          "size": 48
+        },
+        {
+          "text": "Our dedicated task battery supplies four separate power branches.",
+          "x": 80,
+          "y": 145,
+          "width": 702.0,
+          "size": 24
+        },
+        {
+          "text": "01 / 02",
+          "x": 2254.0,
+          "y": 42,
+          "width": 66.0,
+          "size": 22
+        },
+        {
+          "text": "Power",
+          "x": 1560,
+          "y": 137,
+          "width": 56.0,
+          "size": 20
+        },
+        {
+          "text": "Data / control",
+          "x": 1835,
+          "y": 137,
+          "width": 120.0,
+          "size": 20
+        },
+        {
+          "text": "Ground return",
+          "x": 2110,
+          "y": 137,
+          "width": 126.0,
+          "size": 20
+        },
+        {
+          "text": "Task battery",
+          "x": 209.52,
+          "y": 252,
+          "width": 160.97,
+          "size": 27
+        },
+        {
+          "text": "3S LiPo | 2200 mAh",
+          "x": 188.5,
+          "y": 291,
+          "width": 203.0,
+          "size": 23
+        },
+        {
+          "text": "11.1 V nominal | 12.6 V full",
+          "x": 154.02,
+          "y": 320,
+          "width": 271.97,
+          "size": 23
+        },
+        {
+          "text": "7.5 A main fuse*",
+          "x": 633.52,
+          "y": 252,
+          "width": 212.97,
+          "size": 27
+        },
+        {
+          "text": "Close to battery positive",
+          "x": 624.5,
+          "y": 291,
+          "width": 231.0,
+          "size": 21
+        },
+        {
+          "text": "Master switch",
+          "x": 1047.5,
+          "y": 252,
+          "width": 170.0,
+          "size": 26
+        },
+        {
+          "text": "Task power isolation",
+          "x": 1026.52,
+          "y": 291,
+          "width": 211.97,
+          "size": 23
+        },
+        {
+          "text": "P+ distribution",
+          "x": 1492.5,
+          "y": 252,
+          "width": 195.0,
+          "size": 27
+        },
+        {
+          "text": "Switched battery positive",
+          "x": 1469.5,
+          "y": 291,
+          "width": 241.0,
+          "size": 22
+        },
+        {
+          "text": "Four parallel fused branches",
+          "x": 1453.0,
+          "y": 320,
+          "width": 274.0,
+          "size": 22
+        },
+        {
+          "text": "Per-cell voltage alarm",
+          "x": 1988.0,
+          "y": 252,
+          "width": 264.0,
+          "size": 26
+        },
+        {
+          "text": "Balance connector only",
+          "x": 2007.0,
+          "y": 291,
+          "width": 226.0,
+          "size": 22
+        },
+        {
+          "text": "Audible warning; no Pi signal",
+          "x": 1980.0,
+          "y": 320,
+          "width": 280.0,
+          "size": 22
+        },
+        {
+          "text": "Separate battery balance lead",
+          "x": 1480,
+          "y": 174,
+          "width": 259.0,
+          "size": 19
+        },
+        {
+          "text": "5 A branch fuse*",
+          "x": 221.52,
+          "y": 459,
+          "width": 196.97,
+          "size": 25
+        },
+        {
+          "text": "EP-0225 Pi power board",
+          "x": 177.5,
+          "y": 567,
+          "width": 285.0,
+          "size": 25
+        },
+        {
+          "text": "9-24 V DC input; one input only",
+          "x": 169.0,
+          "y": 606,
+          "width": 302.0,
+          "size": 22
+        },
+        {
+          "text": "USB-C PD: 5.15 V / 5 A",
+          "x": 204.01,
+          "y": 635,
+          "width": 231.98,
+          "size": 22
+        },
+        {
+          "text": "Raspberry Pi 5 - 8 GB",
+          "x": 192.0,
+          "y": 731,
+          "width": 256.0,
+          "size": 25
+        },
+        {
+          "text": "Powers camera and USB devices",
+          "x": 157.5,
+          "y": 770,
+          "width": 325.0,
+          "size": 22
+        },
+        {
+          "text": "PCA9685 logic: Pi 3.3 V",
+          "x": 203.0,
+          "y": 799,
+          "width": 234.0,
+          "size": 22
+        },
+        {
+          "text": "64 GB microSD + active cooler",
+          "x": 170.5,
+          "y": 828,
+          "width": 299.0,
+          "size": 22
+        },
+        {
+          "text": "RTC battery retains the clock",
+          "x": 180.0,
+          "y": 857,
+          "width": 280.0,
+          "size": 22
+        },
+        {
+          "text": "3 A branch fuse*",
+          "x": 781.52,
+          "y": 459,
+          "width": 196.97,
+          "size": 25
+        },
+        {
+          "text": "Hobbywing UBEC 3A",
+          "x": 755.0,
+          "y": 567,
+          "width": 250.0,
+          "size": 25
+        },
+        {
+          "text": "Output set to 5 V",
+          "x": 798.5,
+          "y": 606,
+          "width": 163.0,
+          "size": 22
+        },
+        {
+          "text": "Pan servo + PWM buffer supply",
+          "x": 726.5,
+          "y": 635,
+          "width": 307.0,
+          "size": 22
+        },
+        {
+          "text": "MG996R + SN74AHCT125",
+          "x": 728.5,
+          "y": 731,
+          "width": 303.0,
+          "size": 25
+        },
+        {
+          "text": "Pan servo and PWM buffer",
+          "x": 749.5,
+          "y": 770,
+          "width": 261.0,
+          "size": 22
+        },
+        {
+          "text": "Buffer supply remains at 5 V",
+          "x": 743.5,
+          "y": 799,
+          "width": 273.0,
+          "size": 22
+        },
+        {
+          "text": "Not powered from the Pi",
+          "x": 763.0,
+          "y": 828,
+          "width": 234.0,
+          "size": 22
+        },
+        {
+          "text": "1 A branch fuse*",
+          "x": 1341.52,
+          "y": 459,
+          "width": 196.97,
+          "size": 25
+        },
+        {
+          "text": "DFR0379 converter 1",
+          "x": 1315.5,
+          "y": 567,
+          "width": 249.0,
+          "size": 25
+        },
+        {
+          "text": "Output set to 5.2 V",
+          "x": 1349.5,
+          "y": 606,
+          "width": 181.0,
+          "size": 22
+        },
+        {
+          "text": "Dedicated LiDAR supply",
+          "x": 1321.5,
+          "y": 635,
+          "width": 237.0,
+          "size": 22
+        },
+        {
+          "text": "TF03-100 LiDAR",
+          "x": 1344.5,
+          "y": 731,
+          "width": 191.0,
+          "size": 25
+        },
+        {
+          "text": "UART/CAN version: SEN0328",
+          "x": 1292.5,
+          "y": 770,
+          "width": 295.0,
+          "size": 22
+        },
+        {
+          "text": "Revision-matched power cable",
+          "x": 1291.5,
+          "y": 799,
+          "width": 297.0,
+          "size": 22
+        },
+        {
+          "text": "USB adapter VCC disconnected",
+          "x": 1284.0,
+          "y": 828,
+          "width": 312.0,
+          "size": 22
+        },
+        {
+          "text": "1 A branch fuse*",
+          "x": 1901.52,
+          "y": 459,
+          "width": 196.97,
+          "size": 25
+        },
+        {
+          "text": "DFR0379 converter 2",
+          "x": 1875.5,
+          "y": 567,
+          "width": 249.0,
+          "size": 25
+        },
+        {
+          "text": "Output set to 5.2 V",
+          "x": 1909.5,
+          "y": 606,
+          "width": 181.0,
+          "size": 22
+        },
+        {
+          "text": "Dedicated tilt-servo supply",
+          "x": 1872.5,
+          "y": 635,
+          "width": 255.0,
+          "size": 22
+        },
+        {
+          "text": "FS90 tilt servo",
+          "x": 1914.5,
+          "y": 731,
+          "width": 171.0,
+          "size": 25
+        },
+        {
+          "text": "Positional FS90; not FS90R",
+          "x": 1865.5,
+          "y": 770,
+          "width": 269.0,
+          "size": 22
+        },
+        {
+          "text": "Balanced, bearing-supported tilt",
+          "x": 1847.0,
+          "y": 799,
+          "width": 306.0,
+          "size": 22
+        },
+        {
+          "text": "Separate from the pan supply",
+          "x": 1858.0,
+          "y": 828,
+          "width": 284.0,
+          "size": 22
+        },
+        {
+          "text": "G_LOAD: task, USB and signal grounds",
+          "x": 380,
+          "y": 918,
+          "width": 402.0,
+          "size": 21
+        },
+        {
+          "text": "Task battery negative",
+          "x": 164.02,
+          "y": 1048,
+          "width": 261.97,
+          "size": 26
+        },
+        {
+          "text": "Same battery shown above",
+          "x": 163.5,
+          "y": 1087,
+          "width": 263.0,
+          "size": 22
+        },
+        {
+          "text": "Kemo M148A - switched negative return",
+          "x": 981.01,
+          "y": 1032,
+          "width": 487.98,
+          "size": 26
+        },
+        {
+          "text": "LOAD - to protected ground; BATTERY - to raw negative",
+          "x": 936.02,
+          "y": 1071,
+          "width": 577.97,
+          "size": 23
+        },
+        {
+          "text": "Positive reference connects to P+; backup cutoff only",
+          "x": 953.0,
+          "y": 1101,
+          "width": 544.0,
+          "size": 23
+        },
+        {
+          "text": "LOAD -",
+          "x": 1690,
+          "y": 1044,
+          "width": 75.0,
+          "size": 22
+        },
+        {
+          "text": "BATTERY -",
+          "x": 610,
+          "y": 1044,
+          "width": 116.97,
+          "size": 22
+        },
+        {
+          "text": "We isolate G_LOAD from raw battery negative, the chassis and drive-system ground.",
+          "x": 80,
+          "y": 1173,
+          "width": 929.0,
+          "size": 23
+        },
+        {
+          "text": "* All five fuse ratings are provisional: verify load, inrush and wiring. Keep regulated positives separate.",
+          "x": 80,
+          "y": 1208,
+          "width": 973.98,
+          "size": 21
+        },
+        {
+          "text": "SIGNAL CONNECTIONS",
+          "x": 80,
+          "y": 1261,
+          "width": 252.0,
+          "size": 22
+        },
+        {
+          "text": "Repeated device names below identify the same installed units shown above.",
+          "x": 780,
+          "y": 1264,
+          "width": 742.0,
+          "size": 21
+        },
+        {
+          "text": "VHF antenna + RTL-SDR",
+          "x": 150.0,
+          "y": 1337,
+          "width": 280.0,
+          "size": 24
+        },
+        {
+          "text": "144-148 MHz receive only",
+          "x": 164.5,
+          "y": 1376,
+          "width": 251.0,
+          "size": 21
+        },
+        {
+          "text": "Raspberry Pi 5",
+          "x": 777.0,
+          "y": 1337,
+          "width": 176.0,
+          "size": 25
+        },
+        {
+          "text": "rtl_fm + Dire Wolf",
+          "x": 782.0,
+          "y": 1376,
+          "width": 166.0,
+          "size": 21
+        },
+        {
+          "text": "USB",
+          "x": 563.5,
+          "y": 1324,
+          "width": 43.0,
+          "size": 21
+        },
+        {
+          "text": "Camera Module 3",
+          "x": 1381.5,
+          "y": 1337,
+          "width": 207.0,
+          "size": 25
+        },
+        {
+          "text": "CSI camera interface",
+          "x": 1384.0,
+          "y": 1376,
+          "width": 202.0,
+          "size": 21
+        },
+        {
+          "text": "Raspberry Pi 5",
+          "x": 2032.0,
+          "y": 1337,
+          "width": 176.0,
+          "size": 25
+        },
+        {
+          "text": "Image capture / autofocus",
+          "x": 1995.0,
+          "y": 1376,
+          "width": 250.0,
+          "size": 21
+        },
+        {
+          "text": "CSI",
+          "x": 1787.5,
+          "y": 1324,
+          "width": 35.0,
+          "size": 21
+        },
+        {
+          "text": "Raspberry Pi 5",
+          "x": 152.0,
+          "y": 1467,
+          "width": 176.0,
+          "size": 25
+        },
+        {
+          "text": "3.3 V logic",
+          "x": 189.5,
+          "y": 1506,
+          "width": 101.0,
+          "size": 21
+        },
+        {
+          "text": "PCA9685",
+          "x": 750.5,
+          "y": 1467,
+          "width": 109.0,
+          "size": 25
+        },
+        {
+          "text": "VCC and I2C pull-ups: 3.3 V",
+          "x": 670.5,
+          "y": 1506,
+          "width": 269.0,
+          "size": 21
+        },
+        {
+          "text": "SN74AHCT125",
+          "x": 1453.0,
+          "y": 1467,
+          "width": 174.0,
+          "size": 25
+        },
+        {
+          "text": "3.3 V input to 5 V PWM output",
+          "x": 1395.5,
+          "y": 1506,
+          "width": 289.0,
+          "size": 21
+        },
+        {
+          "text": "MG996R",
+          "x": 2090.0,
+          "y": 1467,
+          "width": 100.0,
+          "size": 25
+        },
+        {
+          "text": "Shared-platform pan",
+          "x": 2042.0,
+          "y": 1506,
+          "width": 196.0,
+          "size": 21
+        },
+        {
+          "text": "I2C",
+          "x": 465.5,
+          "y": 1453,
+          "width": 33.0,
+          "size": 21
+        },
+        {
+          "text": "3.3 V PWM",
+          "x": 1116.0,
+          "y": 1453,
+          "width": 108.0,
+          "size": 21
+        },
+        {
+          "text": "5 V PWM",
+          "x": 1825.0,
+          "y": 1453,
+          "width": 90.0,
+          "size": 21
+        },
+        {
+          "text": "PCA9685 - second channel",
+          "x": 142.5,
+          "y": 1597,
+          "width": 295.0,
+          "size": 23
+        },
+        {
+          "text": "Same servo update frequency",
+          "x": 146.0,
+          "y": 1636,
+          "width": 288.0,
+          "size": 21
+        },
+        {
+          "text": "FS90",
+          "x": 835.0,
+          "y": 1597,
+          "width": 60.0,
+          "size": 25
+        },
+        {
+          "text": "LiDAR elevation",
+          "x": 788.0,
+          "y": 1636,
+          "width": 154.0,
+          "size": 21
+        },
+        {
+          "text": "3.3 V PWM",
+          "x": 536.5,
+          "y": 1584,
+          "width": 97.0,
+          "size": 19
+        },
+        {
+          "text": "TF03-100",
+          "x": 1391.0,
+          "y": 1597,
+          "width": 108.0,
+          "size": 25
+        },
+        {
+          "text": "Range frames",
+          "x": 1377.5,
+          "y": 1636,
+          "width": 135.0,
+          "size": 21
+        },
+        {
+          "text": "CP2102",
+          "x": 1854.5,
+          "y": 1597,
+          "width": 91.0,
+          "size": 25
+        },
+        {
+          "text": "3.3 V logic",
+          "x": 1849.5,
+          "y": 1636,
+          "width": 101.0,
+          "size": 21
+        },
+        {
+          "text": "Pi 5",
+          "x": 2227.5,
+          "y": 1597,
+          "width": 45.0,
+          "size": 25
+        },
+        {
+          "text": "USB",
+          "x": 2228.5,
+          "y": 1636,
+          "width": 43.0,
+          "size": 21
+        },
+        {
+          "text": "UART",
+          "x": 1653.5,
+          "y": 1584,
+          "width": 53.0,
+          "size": 20
+        },
+        {
+          "text": "USB",
+          "x": 2095.0,
+          "y": 1584,
+          "width": 40.0,
+          "size": 20
+        },
+        {
+          "text": "Raspberry Pi 5",
+          "x": 202.0,
+          "y": 1727,
+          "width": 176.0,
+          "size": 25
+        },
+        {
+          "text": "Local results viewer",
+          "x": 195.0,
+          "y": 1766,
+          "width": 190.0,
+          "size": 21
+        },
+        {
+          "text": "Onboard HDMI touchscreen",
+          "x": 770.5,
+          "y": 1727,
+          "width": 329.0,
+          "size": 25
+        },
+        {
+          "text": "HDMI video; USB touch and power",
+          "x": 769.0,
+          "y": 1766,
+          "width": 332.0,
+          "size": 21
+        },
+        {
+          "text": "USB touch",
+          "x": 542.0,
+          "y": 1782,
+          "width": 86.0,
+          "size": 18
+        },
+        {
+          "text": "HDMI / USB",
+          "x": 533.0,
+          "y": 1714,
+          "width": 104.0,
+          "size": 19
+        },
+        {
+          "text": "UART: 115200 baud, 8N1; cross TX/RX and join G_LOAD.",
+          "x": 1280,
+          "y": 1720,
+          "width": 600.94,
+          "size": 23
+        },
+        {
+          "text": "Keep separate servo positives off the PCA9685 shared V+ bus.",
+          "x": 1280,
+          "y": 1755,
+          "width": 648.0,
+          "size": 23
+        },
+        {
+          "text": "We verify 5 A PD negotiation, USB/fan draw and loaded supply stability before use.",
+          "x": 80,
+          "y": 1840,
+          "width": 903.97,
+          "size": 23
+        },
+        {
+          "text": "Power / interface architecture",
+          "x": 2040.0,
+          "y": 1840,
+          "width": 280.0,
+          "size": 21
+        }
+      ],
+      "boxes": {
+        "battery": {
+          "x": 80,
+          "y": 235,
+          "w": 420,
+          "h": 122,
+          "head": "Task battery",
+          "body": [
+            "3S LiPo | 2200 mAh",
+            "11.1 V nominal | 12.6 V full"
+          ]
+        },
+        "mainfuse": {
+          "x": 605,
+          "y": 235,
+          "w": 270,
+          "h": 122,
+          "head": "7.5 A main fuse*",
+          "body": [
+            "Close to battery positive"
+          ]
+        },
+        "switch": {
+          "x": 980,
+          "y": 235,
+          "w": 305,
+          "h": 122,
+          "head": "Master switch",
+          "body": [
+            "Task power isolation"
+          ]
+        },
+        "distribution": {
+          "x": 1390,
+          "y": 235,
+          "w": 400,
+          "h": 122,
+          "head": "P+ distribution",
+          "body": [
+            "Switched battery positive",
+            "Four parallel fused branches"
+          ]
+        },
+        "alarm": {
+          "x": 1920,
+          "y": 235,
+          "w": 400,
+          "h": 122,
+          "head": "Per-cell voltage alarm",
+          "body": [
+            "Balance connector only",
+            "Audible warning; no Pi signal"
+          ]
+        },
+        "branchfuse0": {
+          "x": 80,
+          "y": 442,
+          "w": 480,
+          "h": 70,
+          "head": "5 A branch fuse*",
+          "body": []
+        },
+        "reg0": {
+          "x": 80,
+          "y": 550,
+          "w": 480,
+          "h": 120,
+          "head": "EP-0225 Pi power board",
+          "body": [
+            "9-24 V DC input; one input only",
+            "USB-C PD: 5.15 V / 5 A"
+          ]
+        },
+        "load0": {
+          "x": 80,
+          "y": 714,
+          "w": 480,
+          "h": 187,
+          "head": "Raspberry Pi 5 - 8 GB",
+          "body": [
+            "Powers camera and USB devices",
+            "PCA9685 logic: Pi 3.3 V",
+            "64 GB microSD + active cooler",
+            "RTC battery retains the clock"
+          ]
+        },
+        "branchfuse1": {
+          "x": 640,
+          "y": 442,
+          "w": 480,
+          "h": 70,
+          "head": "3 A branch fuse*",
+          "body": []
+        },
+        "reg1": {
+          "x": 640,
+          "y": 550,
+          "w": 480,
+          "h": 120,
+          "head": "Hobbywing UBEC 3A",
+          "body": [
+            "Output set to 5 V",
+            "Pan servo + PWM buffer supply"
+          ]
+        },
+        "load1": {
+          "x": 640,
+          "y": 714,
+          "w": 480,
+          "h": 187,
+          "head": "MG996R + SN74AHCT125",
+          "body": [
+            "Pan servo and PWM buffer",
+            "Buffer supply remains at 5 V",
+            "Not powered from the Pi"
+          ]
+        },
+        "branchfuse2": {
+          "x": 1200,
+          "y": 442,
+          "w": 480,
+          "h": 70,
+          "head": "1 A branch fuse*",
+          "body": []
+        },
+        "reg2": {
+          "x": 1200,
+          "y": 550,
+          "w": 480,
+          "h": 120,
+          "head": "DFR0379 converter 1",
+          "body": [
+            "Output set to 5.2 V",
+            "Dedicated LiDAR supply"
+          ]
+        },
+        "load2": {
+          "x": 1200,
+          "y": 714,
+          "w": 480,
+          "h": 187,
+          "head": "TF03-100 LiDAR",
+          "body": [
+            "UART/CAN version: SEN0328",
+            "Revision-matched power cable",
+            "USB adapter VCC disconnected"
+          ]
+        },
+        "branchfuse3": {
+          "x": 1760,
+          "y": 442,
+          "w": 480,
+          "h": 70,
+          "head": "1 A branch fuse*",
+          "body": []
+        },
+        "reg3": {
+          "x": 1760,
+          "y": 550,
+          "w": 480,
+          "h": 120,
+          "head": "DFR0379 converter 2",
+          "body": [
+            "Output set to 5.2 V",
+            "Dedicated tilt-servo supply"
+          ]
+        },
+        "load3": {
+          "x": 1760,
+          "y": 714,
+          "w": 480,
+          "h": 187,
+          "head": "FS90 tilt servo",
+          "body": [
+            "Positional FS90; not FS90R",
+            "Balanced, bearing-supported tilt",
+            "Separate from the pan supply"
+          ]
+        },
+        "battneg": {
+          "x": 80,
+          "y": 1031,
+          "w": 430,
+          "h": 105,
+          "head": "Task battery negative",
+          "body": [
+            "Same battery shown above"
+          ]
+        },
+        "kemo": {
+          "x": 845,
+          "y": 1015,
+          "w": 760,
+          "h": 140,
+          "head": "Kemo M148A - switched negative return",
+          "body": [
+            "LOAD - to protected ground; BATTERY - to raw negative",
+            "Positive reference connects to P+; backup cutoff only"
+          ]
+        },
+        "sdr": {
+          "x": 80,
+          "y": 1320,
+          "w": 420,
+          "h": 90,
+          "head": "VHF antenna + RTL-SDR",
+          "body": [
+            "144-148 MHz receive only"
+          ]
+        },
+        "pi-radio": {
+          "x": 675,
+          "y": 1320,
+          "w": 380,
+          "h": 90,
+          "head": "Raspberry Pi 5",
+          "body": [
+            "rtl_fm + Dire Wolf"
+          ]
+        },
+        "camera": {
+          "x": 1280,
+          "y": 1320,
+          "w": 410,
+          "h": 90,
+          "head": "Camera Module 3",
+          "body": [
+            "CSI camera interface"
+          ]
+        },
+        "pi-camera": {
+          "x": 1920,
+          "y": 1320,
+          "w": 400,
+          "h": 90,
+          "head": "Raspberry Pi 5",
+          "body": [
+            "Image capture / autofocus"
+          ]
+        },
+        "pi-pwm": {
+          "x": 80,
+          "y": 1450,
+          "w": 320,
+          "h": 90,
+          "head": "Raspberry Pi 5",
+          "body": [
+            "3.3 V logic"
+          ]
+        },
+        "pca": {
+          "x": 565,
+          "y": 1450,
+          "w": 480,
+          "h": 90,
+          "head": "PCA9685",
+          "body": [
+            "VCC and I2C pull-ups: 3.3 V"
+          ]
+        },
+        "buffer": {
+          "x": 1300,
+          "y": 1450,
+          "w": 480,
+          "h": 90,
+          "head": "SN74AHCT125",
+          "body": [
+            "3.3 V input to 5 V PWM output"
+          ]
+        },
+        "mg": {
+          "x": 1960,
+          "y": 1450,
+          "w": 360,
+          "h": 90,
+          "head": "MG996R",
+          "body": [
+            "Shared-platform pan"
+          ]
+        },
+        "pca-tilt": {
+          "x": 80,
+          "y": 1580,
+          "w": 420,
+          "h": 90,
+          "head": "PCA9685 - second channel",
+          "body": [
+            "Same servo update frequency"
+          ]
+        },
+        "fs": {
+          "x": 675,
+          "y": 1580,
+          "w": 380,
+          "h": 90,
+          "head": "FS90",
+          "body": [
+            "LiDAR elevation"
+          ]
+        },
+        "tf-data": {
+          "x": 1280,
+          "y": 1580,
+          "w": 330,
+          "h": 90,
+          "head": "TF03-100",
+          "body": [
+            "Range frames"
+          ]
+        },
+        "cp-data": {
+          "x": 1750,
+          "y": 1580,
+          "w": 300,
+          "h": 90,
+          "head": "CP2102",
+          "body": [
+            "3.3 V logic"
+          ]
+        },
+        "pi-range": {
+          "x": 2180,
+          "y": 1580,
+          "w": 140,
+          "h": 90,
+          "head": "Pi 5",
+          "body": [
+            "USB"
+          ]
+        },
+        "pi-display": {
+          "x": 80,
+          "y": 1710,
+          "w": 420,
+          "h": 90,
+          "head": "Raspberry Pi 5",
+          "body": [
+            "Local results viewer"
+          ]
+        },
+        "display": {
+          "x": 675,
+          "y": 1710,
+          "w": 520,
+          "h": 90,
+          "head": "Onboard HDMI touchscreen",
+          "body": [
+            "HDMI video; USB touch and power"
+          ]
+        }
+      },
+      "edges": [
+        {
+          "points": [
+            [
+              1510,
+              151
+            ],
+            [
+              1550,
+              151
+            ]
+          ],
+          "kind": "power",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1785,
+              151
+            ],
+            [
+              1825,
+              151
+            ]
+          ],
+          "kind": "control",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              2060,
+              151
+            ],
+            [
+              2100,
+              151
+            ]
+          ],
+          "kind": "ground",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              500,
+              295
+            ],
+            [
+              605,
+              295
+            ]
+          ],
+          "kind": "power",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              875,
+              295
+            ],
+            [
+              980,
+              295
+            ]
+          ],
+          "kind": "power",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1285,
+              295
+            ],
+            [
+              1390,
+              295
+            ]
+          ],
+          "kind": "power",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              395,
+              235
+            ],
+            [
+              395,
+              198
+            ],
+            [
+              2120,
+              198
+            ],
+            [
+              2120,
+              235
+            ]
+          ],
+          "kind": "purple",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1590,
+              357
+            ],
+            [
+              1590,
+              398
+            ]
+          ],
+          "kind": "power",
+          "arrow": false,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              320,
+              398
+            ],
+            [
+              2000,
+              398
+            ]
+          ],
+          "kind": "power",
+          "arrow": false,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              320,
+              398
+            ],
+            [
+              320,
+              442
+            ]
+          ],
+          "kind": "power",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              880,
+              398
+            ],
+            [
+              880,
+              442
+            ]
+          ],
+          "kind": "power",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1440,
+              398
+            ],
+            [
+              1440,
+              442
+            ]
+          ],
+          "kind": "power",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              2000,
+              398
+            ],
+            [
+              2000,
+              442
+            ]
+          ],
+          "kind": "power",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              320,
+              512
+            ],
+            [
+              320,
+              550
+            ]
+          ],
+          "kind": "power",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              320,
+              670
+            ],
+            [
+              320,
+              714
+            ]
+          ],
+          "kind": "power",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              320,
+              901
+            ],
+            [
+              320,
+              951
+            ]
+          ],
+          "kind": "ground",
+          "arrow": false,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              880,
+              512
+            ],
+            [
+              880,
+              550
+            ]
+          ],
+          "kind": "power",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              880,
+              670
+            ],
+            [
+              880,
+              714
+            ]
+          ],
+          "kind": "power",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              880,
+              901
+            ],
+            [
+              880,
+              951
+            ]
+          ],
+          "kind": "ground",
+          "arrow": false,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1440,
+              512
+            ],
+            [
+              1440,
+              550
+            ]
+          ],
+          "kind": "power",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1440,
+              670
+            ],
+            [
+              1440,
+              714
+            ]
+          ],
+          "kind": "power",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1440,
+              901
+            ],
+            [
+              1440,
+              951
+            ]
+          ],
+          "kind": "ground",
+          "arrow": false,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              2000,
+              512
+            ],
+            [
+              2000,
+              550
+            ]
+          ],
+          "kind": "power",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              2000,
+              670
+            ],
+            [
+              2000,
+              714
+            ]
+          ],
+          "kind": "power",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              2000,
+              901
+            ],
+            [
+              2000,
+              951
+            ]
+          ],
+          "kind": "ground",
+          "arrow": false,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              180,
+              951
+            ],
+            [
+              2315,
+              951
+            ]
+          ],
+          "kind": "ground",
+          "arrow": false,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              2315,
+              951
+            ],
+            [
+              2315,
+              1080
+            ],
+            [
+              1605,
+              1080
+            ]
+          ],
+          "kind": "ground",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              845,
+              1080
+            ],
+            [
+              510,
+              1080
+            ]
+          ],
+          "kind": "ground",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              500,
+              1365
+            ],
+            [
+              675,
+              1365
+            ]
+          ],
+          "kind": "control",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1690,
+              1365
+            ],
+            [
+              1920,
+              1365
+            ]
+          ],
+          "kind": "control",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1920,
+              1380
+            ],
+            [
+              1690,
+              1380
+            ]
+          ],
+          "kind": "control",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              400,
+              1495
+            ],
+            [
+              565,
+              1495
+            ]
+          ],
+          "kind": "control",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1045,
+              1495
+            ],
+            [
+              1300,
+              1495
+            ]
+          ],
+          "kind": "control",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1780,
+              1495
+            ],
+            [
+              1960,
+              1495
+            ]
+          ],
+          "kind": "control",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              500,
+              1625
+            ],
+            [
+              675,
+              1625
+            ]
+          ],
+          "kind": "control",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1610,
+              1625
+            ],
+            [
+              1750,
+              1625
+            ]
+          ],
+          "kind": "control",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1750,
+              1640
+            ],
+            [
+              1610,
+              1640
+            ]
+          ],
+          "kind": "control",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              2050,
+              1625
+            ],
+            [
+              2180,
+              1625
+            ]
+          ],
+          "kind": "control",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              500,
+              1755
+            ],
+            [
+              675,
+              1755
+            ]
+          ],
+          "kind": "control",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              675,
+              1770
+            ],
+            [
+              500,
+              1770
+            ]
+          ],
+          "kind": "control",
+          "arrow": true,
+          "label": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Task system: autonomous command flow",
+      "text": [
+        {
+          "text": "NASA HERC 2027 TEAM BANGLADESH",
+          "x": 80,
+          "y": 36,
+          "width": 415.98,
+          "size": 22
+        },
+        {
+          "text": "Task system: autonomous command flow",
+          "x": 80,
+          "y": 82,
+          "width": 953.94,
+          "size": 48
+        },
+        {
+          "text": "We execute NASA's live commands and save each result on the rover.",
+          "x": 80,
+          "y": 145,
+          "width": 746.98,
+          "size": 24
+        },
+        {
+          "text": "02 / 02",
+          "x": 2254.0,
+          "y": 42,
+          "width": 66.0,
+          "size": 22
+        },
+        {
+          "text": "Live commands",
+          "x": 1560,
+          "y": 137,
+          "width": 140.0,
+          "size": 20
+        },
+        {
+          "text": "Action / result",
+          "x": 1835,
+          "y": 137,
+          "width": 122.0,
+          "size": 20
+        },
+        {
+          "text": "Next command",
+          "x": 2110,
+          "y": 137,
+          "width": 135.0,
+          "size": 20
+        },
+        {
+          "text": "We position and align",
+          "x": 161.5,
+          "y": 252,
+          "width": 257.0,
+          "size": 25
+        },
+        {
+          "text": "Set the starting camera reference",
+          "x": 130.0,
+          "y": 291,
+          "width": 320.0,
+          "size": 21
+        },
+        {
+          "text": "Check the date, time and battery",
+          "x": 134.0,
+          "y": 320,
+          "width": 312.0,
+          "size": 21
+        },
+        {
+          "text": "Manual setup ends before the task",
+          "x": 124.0,
+          "y": 349,
+          "width": 332.0,
+          "size": 21
+        },
+        {
+          "text": "NASA VHF broadcast",
+          "x": 713.01,
+          "y": 252,
+          "width": 253.98,
+          "size": 25
+        },
+        {
+          "text": "NASA channel within 144-148 MHz",
+          "x": 672.51,
+          "y": 291,
+          "width": 334.98,
+          "size": 21
+        },
+        {
+          "text": "30-second broadcast intervals",
+          "x": 695.5,
+          "y": 320,
+          "width": 289.0,
+          "size": 21
+        },
+        {
+          "text": "No radio transmission from us",
+          "x": 696.5,
+          "y": 349,
+          "width": 287.0,
+          "size": 21
+        },
+        {
+          "text": "RTL-SDR + rtl_fm",
+          "x": 1307.0,
+          "y": 252,
+          "width": 216.0,
+          "size": 26
+        },
+        {
+          "text": "Receive RF and demodulate FM",
+          "x": 1259.0,
+          "y": 291,
+          "width": 312.0,
+          "size": 22
+        },
+        {
+          "text": "Receiver runs while actions execute",
+          "x": 1241.5,
+          "y": 321,
+          "width": 347.0,
+          "size": 22
+        },
+        {
+          "text": "Dire Wolf",
+          "x": 1993.0,
+          "y": 252,
+          "width": 114.0,
+          "size": 26
+        },
+        {
+          "text": "Live 1200-baud AX.25/APRS decode",
+          "x": 1870.51,
+          "y": 291,
+          "width": 358.98,
+          "size": 22
+        },
+        {
+          "text": "Local decoded packets to the Pi",
+          "x": 1896.0,
+          "y": 321,
+          "width": 308.0,
+          "size": 22
+        },
+        {
+          "text": "Task controller ready",
+          "x": 163.52,
+          "y": 463,
+          "width": 252.97,
+          "size": 25
+        },
+        {
+          "text": "Wait for the live begin command",
+          "x": 135.51,
+          "y": 502,
+          "width": 308.98,
+          "size": 21
+        },
+        {
+          "text": "No stored competition sequence",
+          "x": 135.0,
+          "y": 531,
+          "width": 310.0,
+          "size": 21
+        },
+        {
+          "text": "Execute the next received command",
+          "x": 862.5,
+          "y": 455,
+          "width": 535.0,
+          "size": 31
+        },
+        {
+          "text": "Sequence status | commanded bearing | active filter",
+          "x": 838.5,
+          "y": 494,
+          "width": 583.0,
+          "size": 25
+        },
+        {
+          "text": "One stateful controller on our Raspberry Pi 5",
+          "x": 880.5,
+          "y": 527,
+          "width": 499.0,
+          "size": 25
+        },
+        {
+          "text": "NASA-format parser + queue",
+          "x": 1873.0,
+          "y": 463,
+          "width": 354.0,
+          "size": 26
+        },
+        {
+          "text": "Accept valid commands in received order",
+          "x": 1852.0,
+          "y": 502,
+          "width": 396.0,
+          "size": 21
+        },
+        {
+          "text": "Handle framing and repeats as specified",
+          "x": 1856.5,
+          "y": 531,
+          "width": 387.0,
+          "size": 21
+        },
+        {
+          "text": "One matching branch per received command.",
+          "x": 1300,
+          "y": 608,
+          "width": 522.0,
+          "size": 24
+        },
+        {
+          "text": "AAA",
+          "x": 191.0,
+          "y": 722,
+          "width": 78.0,
+          "size": 36
+        },
+        {
+          "text": "Begin sequence",
+          "x": 146.5,
+          "y": 761,
+          "width": 167.0,
+          "size": 23
+        },
+        {
+          "text": "B / C",
+          "x": 577.0,
+          "y": 722,
+          "width": 82.0,
+          "size": 36
+        },
+        {
+          "text": "Turn view",
+          "x": 567.51,
+          "y": 761,
+          "width": 100.98,
+          "size": 23
+        },
+        {
+          "text": "E / F / G",
+          "x": 939.0,
+          "y": 722,
+          "width": 134.0,
+          "size": 36
+        },
+        {
+          "text": "Select filter",
+          "x": 949.5,
+          "y": 761,
+          "width": 113.0,
+          "size": 23
+        },
+        {
+          "text": "D",
+          "x": 1381.0,
+          "y": 722,
+          "width": 26.0,
+          "size": 36
+        },
+        {
+          "text": "Take picture",
+          "x": 1330.02,
+          "y": 761,
+          "width": 127.97,
+          "size": 23
+        },
+        {
+          "text": "H",
+          "x": 1769.0,
+          "y": 722,
+          "width": 26.0,
+          "size": 36
+        },
+        {
+          "text": "Distance to target",
+          "x": 1691.5,
+          "y": 761,
+          "width": 181.0,
+          "size": 23
+        },
+        {
+          "text": "ZZZ",
+          "x": 2137.0,
+          "y": 722,
+          "width": 66.0,
+          "size": 36
+        },
+        {
+          "text": "End sequence",
+          "x": 2095.5,
+          "y": 761,
+          "width": 149.0,
+          "size": 23
+        },
+        {
+          "text": "Begin the run",
+          "x": 152.0,
+          "y": 875,
+          "width": 156.0,
+          "size": 24
+        },
+        {
+          "text": "Open the sequence record",
+          "x": 111.0,
+          "y": 914,
+          "width": 238.0,
+          "size": 20
+        },
+        {
+          "text": "Use NASA-defined start rules",
+          "x": 99.5,
+          "y": 945,
+          "width": 261.0,
+          "size": 20
+        },
+        {
+          "text": "Log the received commands",
+          "x": 104.0,
+          "y": 976,
+          "width": 252.0,
+          "size": 20
+        },
+        {
+          "text": "Pan the platform",
+          "x": 523.0,
+          "y": 875,
+          "width": 190.0,
+          "size": 24
+        },
+        {
+          "text": "B: 30 degrees right",
+          "x": 533.0,
+          "y": 914,
+          "width": 170.0,
+          "size": 20
+        },
+        {
+          "text": "C: 30 degrees left",
+          "x": 538.5,
+          "y": 945,
+          "width": 159.0,
+          "size": 20
+        },
+        {
+          "text": "PCA9685 to PWM buffer",
+          "x": 508.0,
+          "y": 976,
+          "width": 220.0,
+          "size": 20
+        },
+        {
+          "text": "MG996R rotates the platform",
+          "x": 487.5,
+          "y": 1007,
+          "width": 261.0,
+          "size": 20
+        },
+        {
+          "text": "Wait for movement to settle",
+          "x": 494.51,
+          "y": 1038,
+          "width": 246.98,
+          "size": 20
+        },
+        {
+          "text": "Update commanded bearing",
+          "x": 492.0,
+          "y": 1069,
+          "width": 252.0,
+          "size": 20
+        },
+        {
+          "text": "Replace active filter",
+          "x": 894.0,
+          "y": 875,
+          "width": 224.0,
+          "size": 24
+        },
+        {
+          "text": "E: Red",
+          "x": 975.5,
+          "y": 914,
+          "width": 61.0,
+          "size": 20
+        },
+        {
+          "text": "F: Blue",
+          "x": 974.5,
+          "y": 945,
+          "width": 63.0,
+          "size": 20
+        },
+        {
+          "text": "G: Unfiltered / normal colour",
+          "x": 880.0,
+          "y": 976,
+          "width": 252.0,
+          "size": 20
+        },
+        {
+          "text": "Replace the previous filter",
+          "x": 890.5,
+          "y": 1007,
+          "width": 231.0,
+          "size": 20
+        },
+        {
+          "text": "No stacked filter effects",
+          "x": 901.0,
+          "y": 1038,
+          "width": 210.0,
+          "size": 20
+        },
+        {
+          "text": "Capture a fresh frame",
+          "x": 1271.0,
+          "y": 875,
+          "width": 246.0,
+          "size": 24
+        },
+        {
+          "text": "Wait for movement and autofocus",
+          "x": 1243.01,
+          "y": 914,
+          "width": 301.98,
+          "size": 20
+        },
+        {
+          "text": "Acquire a new Camera 3 frame",
+          "x": 1255.0,
+          "y": 945,
+          "width": 278.0,
+          "size": 20
+        },
+        {
+          "text": "Apply the current filter",
+          "x": 1296.0,
+          "y": 976,
+          "width": 196.0,
+          "size": 20
+        },
+        {
+          "text": "Record capture date and time",
+          "x": 1261.5,
+          "y": 1007,
+          "width": 265.0,
+          "size": 20
+        },
+        {
+          "text": "Save the timestamped image",
+          "x": 1264.0,
+          "y": 1038,
+          "width": 260.0,
+          "size": 20
+        },
+        {
+          "text": "Measure intended target",
+          "x": 1643.5,
+          "y": 875,
+          "width": 277.0,
+          "size": 24
+        },
+        {
+          "text": "Use target in commanded view",
+          "x": 1644.5,
+          "y": 914,
+          "width": 275.0,
+          "size": 20
+        },
+        {
+          "text": "Aim using calibrated alignment",
+          "x": 1646.5,
+          "y": 945,
+          "width": 271.0,
+          "size": 20
+        },
+        {
+          "text": "Wait for aiming to settle",
+          "x": 1676.51,
+          "y": 976,
+          "width": 210.98,
+          "size": 20
+        },
+        {
+          "text": "Validate fresh TF03 frames",
+          "x": 1661.01,
+          "y": 1007,
+          "width": 241.98,
+          "size": 20
+        },
+        {
+          "text": "Apply agreed reference correction",
+          "x": 1631.0,
+          "y": 1038,
+          "width": 302.0,
+          "size": 20
+        },
+        {
+          "text": "Divide corrected cm by 30.48",
+          "x": 1652.0,
+          "y": 1069,
+          "width": 260.0,
+          "size": 20
+        },
+        {
+          "text": "Retry within a set time limit",
+          "x": 1662.5,
+          "y": 1100,
+          "width": 239.0,
+          "size": 20
+        },
+        {
+          "text": "Restore commanded view",
+          "x": 1666.5,
+          "y": 1131,
+          "width": 231.0,
+          "size": 20
+        },
+        {
+          "text": "Save range or flag invalid data",
+          "x": 1647.0,
+          "y": 1162,
+          "width": 270.0,
+          "size": 20
+        },
+        {
+          "text": "Close the sequence",
+          "x": 2057.5,
+          "y": 875,
+          "width": 225.0,
+          "size": 24
+        },
+        {
+          "text": "Finish and retain the run record",
+          "x": 2030.5,
+          "y": 914,
+          "width": 279.0,
+          "size": 20
+        },
+        {
+          "text": "Keep images and distances",
+          "x": 2047.5,
+          "y": 945,
+          "width": 245.0,
+          "size": 20
+        },
+        {
+          "text": "Prepare the onboard results view",
+          "x": 2023.0,
+          "y": 976,
+          "width": 294.0,
+          "size": 20
+        },
+        {
+          "text": "No editing or pit processing",
+          "x": 2049.0,
+          "y": 1007,
+          "width": 242.0,
+          "size": 20
+        },
+        {
+          "text": "Our microSD run record",
+          "x": 1022.0,
+          "y": 1297,
+          "width": 356.0,
+          "size": 31
+        },
+        {
+          "text": "Timestamped photographs | distances and target association | received commands | valid / error status",
+          "x": 623.01,
+          "y": 1336,
+          "width": 1153.98,
+          "size": 25
+        },
+        {
+          "text": "We save results as the commands complete; ZZZ closes the sequence.",
+          "x": 798.5,
+          "y": 1369,
+          "width": 803.0,
+          "size": 25
+        },
+        {
+          "text": "While the sequence is active: wait for the next received command",
+          "x": 70,
+          "y": 1478,
+          "width": 717.0,
+          "size": 23
+        },
+        {
+          "text": "After ZZZ",
+          "x": 1930,
+          "y": 1465,
+          "width": 107.0,
+          "size": 24
+        },
+        {
+          "text": "We verify before accepting the system",
+          "x": 418.0,
+          "y": 1567,
+          "width": 499.0,
+          "size": 27
+        },
+        {
+          "text": "NASA message format, maximum pan travel and distance reference",
+          "x": 319.01,
+          "y": 1606,
+          "width": 696.98,
+          "size": 23
+        },
+        {
+          "text": "Target alignment, fresh captures, valid range frames and timestamps",
+          "x": 315.02,
+          "y": 1639,
+          "width": 704.97,
+          "size": 23
+        },
+        {
+          "text": "Power stability, USB load, RF interference and endurance through PER",
+          "x": 302.52,
+          "y": 1672,
+          "width": 729.97,
+          "size": 23
+        },
+        {
+          "text": "Onboard HDMI touchscreen",
+          "x": 1672.5,
+          "y": 1562,
+          "width": 385.0,
+          "size": 29
+        },
+        {
+          "text": "Our pilots show the image gallery and distance log at PER",
+          "x": 1558.5,
+          "y": 1601,
+          "width": 613.0,
+          "size": 24
+        },
+        {
+          "text": "Results are ready locally; no return to the pit",
+          "x": 1632.0,
+          "y": 1634,
+          "width": 466.0,
+          "size": 24
+        },
+        {
+          "text": "We shut down the Pi before switching off its battery",
+          "x": 1594.0,
+          "y": 1667,
+          "width": 542.0,
+          "size": 24
+        },
+        {
+          "text": "TEST TARGETS",
+          "x": 60,
+          "y": 1781,
+          "width": 159.98,
+          "size": 21
+        },
+        {
+          "text": "4 ft x 4 ft white boards | red circle: 12 in diameter | blue square: 12 in side | green triangle: 12 in height",
+          "x": 245,
+          "y": 1780,
+          "width": 1037.0,
+          "size": 23
+        },
+        {
+          "text": "Up to 50 ft from the starting point; shapes at least 1 ft above ground. G means no filter.",
+          "x": 60,
+          "y": 1820,
+          "width": 879.98,
+          "size": 23
+        },
+        {
+          "text": "Process architecture - not a pre-programmed run sequence",
+          "x": 1810.0,
+          "y": 1860,
+          "width": 530.0,
+          "size": 20
+        }
+      ],
+      "boxes": {
+        "manual": {
+          "x": 80,
+          "y": 235,
+          "w": 420,
+          "h": 148,
+          "head": "We position and align",
+          "body": [
+            "Set the starting camera reference",
+            "Check the date, time and battery",
+            "Manual setup ends before the task"
+          ]
+        },
+        "broadcast": {
+          "x": 630,
+          "y": 235,
+          "w": 420,
+          "h": 148,
+          "head": "NASA VHF broadcast",
+          "body": [
+            "NASA channel within 144-148 MHz",
+            "30-second broadcast intervals",
+            "No radio transmission from us"
+          ]
+        },
+        "receiver": {
+          "x": 1160,
+          "y": 235,
+          "w": 510,
+          "h": 148,
+          "head": "RTL-SDR + rtl_fm",
+          "body": [
+            "Receive RF and demodulate FM",
+            "Receiver runs while actions execute"
+          ]
+        },
+        "decoder": {
+          "x": 1780,
+          "y": 235,
+          "w": 540,
+          "h": 148,
+          "head": "Dire Wolf",
+          "body": [
+            "Live 1200-baud AX.25/APRS decode",
+            "Local decoded packets to the Pi"
+          ]
+        },
+        "armed": {
+          "x": 80,
+          "y": 446,
+          "w": 420,
+          "h": 116,
+          "head": "Task controller ready",
+          "body": [
+            "Wait for the live begin command",
+            "No stored competition sequence"
+          ]
+        },
+        "dispatcher": {
+          "x": 680,
+          "y": 438,
+          "w": 900,
+          "h": 145,
+          "head": "Execute the next received command",
+          "body": [
+            "Sequence status | commanded bearing | active filter",
+            "One stateful controller on our Raspberry Pi 5"
+          ]
+        },
+        "parser": {
+          "x": 1780,
+          "y": 446,
+          "w": 540,
+          "h": 129,
+          "head": "NASA-format parser + queue",
+          "body": [
+            "Accept valid commands in received order",
+            "Handle framing and repeats as specified"
+          ]
+        },
+        "cmd0": {
+          "x": 60,
+          "y": 705,
+          "w": 340,
+          "h": 115,
+          "head": "AAA",
+          "body": [
+            "Begin sequence"
+          ]
+        },
+        "cmd1": {
+          "x": 448,
+          "y": 705,
+          "w": 340,
+          "h": 115,
+          "head": "B / C",
+          "body": [
+            "Turn view"
+          ]
+        },
+        "cmd2": {
+          "x": 836,
+          "y": 705,
+          "w": 340,
+          "h": 115,
+          "head": "E / F / G",
+          "body": [
+            "Select filter"
+          ]
+        },
+        "cmd3": {
+          "x": 1224,
+          "y": 705,
+          "w": 340,
+          "h": 115,
+          "head": "D",
+          "body": [
+            "Take picture"
+          ]
+        },
+        "cmd4": {
+          "x": 1612,
+          "y": 705,
+          "w": 340,
+          "h": 115,
+          "head": "H",
+          "body": [
+            "Distance to target"
+          ]
+        },
+        "cmd5": {
+          "x": 2000,
+          "y": 705,
+          "w": 340,
+          "h": 115,
+          "head": "ZZZ",
+          "body": [
+            "End sequence"
+          ]
+        },
+        "action0": {
+          "x": 60,
+          "y": 858,
+          "w": 340,
+          "h": 353,
+          "head": "Begin the run",
+          "body": [
+            "Open the sequence record",
+            "Use NASA-defined start rules",
+            "Log the received commands"
+          ]
+        },
+        "action1": {
+          "x": 448,
+          "y": 858,
+          "w": 340,
+          "h": 353,
+          "head": "Pan the platform",
+          "body": [
+            "B: 30 degrees right",
+            "C: 30 degrees left",
+            "PCA9685 to PWM buffer",
+            "MG996R rotates the platform",
+            "Wait for movement to settle",
+            "Update commanded bearing"
+          ]
+        },
+        "action2": {
+          "x": 836,
+          "y": 858,
+          "w": 340,
+          "h": 353,
+          "head": "Replace active filter",
+          "body": [
+            "E: Red",
+            "F: Blue",
+            "G: Unfiltered / normal colour",
+            "Replace the previous filter",
+            "No stacked filter effects"
+          ]
+        },
+        "action3": {
+          "x": 1224,
+          "y": 858,
+          "w": 340,
+          "h": 353,
+          "head": "Capture a fresh frame",
+          "body": [
+            "Wait for movement and autofocus",
+            "Acquire a new Camera 3 frame",
+            "Apply the current filter",
+            "Record capture date and time",
+            "Save the timestamped image"
+          ]
+        },
+        "action4": {
+          "x": 1612,
+          "y": 858,
+          "w": 340,
+          "h": 353,
+          "head": "Measure intended target",
+          "body": [
+            "Use target in commanded view",
+            "Aim using calibrated alignment",
+            "Wait for aiming to settle",
+            "Validate fresh TF03 frames",
+            "Apply agreed reference correction",
+            "Divide corrected cm by 30.48",
+            "Retry within a set time limit",
+            "Restore commanded view",
+            "Save range or flag invalid data"
+          ]
+        },
+        "action5": {
+          "x": 2000,
+          "y": 858,
+          "w": 340,
+          "h": 353,
+          "head": "Close the sequence",
+          "body": [
+            "Finish and retain the run record",
+            "Keep images and distances",
+            "Prepare the onboard results view",
+            "No editing or pit processing"
+          ]
+        },
+        "record": {
+          "x": 60,
+          "y": 1280,
+          "w": 2280,
+          "h": 138,
+          "head": "Our microSD run record",
+          "body": [
+            "Timestamped photographs | distances and target association | received commands | valid / error status",
+            "We save results as the commands complete; ZZZ closes the sequence."
+          ]
+        },
+        "checks": {
+          "x": 60,
+          "y": 1550,
+          "w": 1215,
+          "h": 177,
+          "head": "We verify before accepting the system",
+          "body": [
+            "NASA message format, maximum pan travel and distance reference",
+            "Target alignment, fresh captures, valid range frames and timestamps",
+            "Power stability, USB load, RF interference and endurance through PER"
+          ]
+        },
+        "per": {
+          "x": 1390,
+          "y": 1545,
+          "w": 950,
+          "h": 184,
+          "head": "Onboard HDMI touchscreen",
+          "body": [
+            "Our pilots show the image gallery and distance log at PER",
+            "Results are ready locally; no return to the pit",
+            "We shut down the Pi before switching off its battery"
+          ]
+        }
+      },
+      "edges": [
+        {
+          "points": [
+            [
+              1510,
+              151
+            ],
+            [
+              1550,
+              151
+            ]
+          ],
+          "kind": "control",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1785,
+              151
+            ],
+            [
+              1825,
+              151
+            ]
+          ],
+          "kind": "result",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              2060,
+              151
+            ],
+            [
+              2100,
+              151
+            ]
+          ],
+          "kind": "ground",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1050,
+              301
+            ],
+            [
+              1160,
+              301
+            ]
+          ],
+          "kind": "control",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1670,
+              301
+            ],
+            [
+              1780,
+              301
+            ]
+          ],
+          "kind": "control",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              290,
+              383
+            ],
+            [
+              290,
+              446
+            ]
+          ],
+          "kind": "ground",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              2050,
+              383
+            ],
+            [
+              2050,
+              446
+            ]
+          ],
+          "kind": "control",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1780,
+              508
+            ],
+            [
+              1580,
+              508
+            ]
+          ],
+          "kind": "control",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              500,
+              504
+            ],
+            [
+              680,
+              504
+            ]
+          ],
+          "kind": "ground",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1150,
+              583
+            ],
+            [
+              1150,
+              661
+            ]
+          ],
+          "kind": "control",
+          "arrow": false,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              230.0,
+              661
+            ],
+            [
+              2170.0,
+              661
+            ]
+          ],
+          "kind": "control",
+          "arrow": false,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              230.0,
+              661
+            ],
+            [
+              230.0,
+              705
+            ]
+          ],
+          "kind": "control",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              618.0,
+              661
+            ],
+            [
+              618.0,
+              705
+            ]
+          ],
+          "kind": "control",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1006.0,
+              661
+            ],
+            [
+              1006.0,
+              705
+            ]
+          ],
+          "kind": "control",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1394.0,
+              661
+            ],
+            [
+              1394.0,
+              705
+            ]
+          ],
+          "kind": "control",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1782.0,
+              661
+            ],
+            [
+              1782.0,
+              705
+            ]
+          ],
+          "kind": "control",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              2170.0,
+              661
+            ],
+            [
+              2170.0,
+              705
+            ]
+          ],
+          "kind": "control",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              230.0,
+              820
+            ],
+            [
+              230.0,
+              858
+            ]
+          ],
+          "kind": "result",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              618.0,
+              820
+            ],
+            [
+              618.0,
+              858
+            ]
+          ],
+          "kind": "result",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1006.0,
+              820
+            ],
+            [
+              1006.0,
+              858
+            ]
+          ],
+          "kind": "result",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1394.0,
+              820
+            ],
+            [
+              1394.0,
+              858
+            ]
+          ],
+          "kind": "result",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1782.0,
+              820
+            ],
+            [
+              1782.0,
+              858
+            ]
+          ],
+          "kind": "result",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              2170.0,
+              820
+            ],
+            [
+              2170.0,
+              858
+            ]
+          ],
+          "kind": "result",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              230.0,
+              1211
+            ],
+            [
+              230.0,
+              1280
+            ]
+          ],
+          "kind": "result",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              618.0,
+              1211
+            ],
+            [
+              618.0,
+              1280
+            ]
+          ],
+          "kind": "result",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1006.0,
+              1211
+            ],
+            [
+              1006.0,
+              1280
+            ]
+          ],
+          "kind": "result",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1394.0,
+              1211
+            ],
+            [
+              1394.0,
+              1280
+            ]
+          ],
+          "kind": "result",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1782.0,
+              1211
+            ],
+            [
+              1782.0,
+              1280
+            ]
+          ],
+          "kind": "result",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              2170.0,
+              1211
+            ],
+            [
+              2170.0,
+              1280
+            ]
+          ],
+          "kind": "result",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              550,
+              1418
+            ],
+            [
+              550,
+              1463
+            ],
+            [
+              28,
+              1463
+            ],
+            [
+              28,
+              625
+            ],
+            [
+              710,
+              625
+            ],
+            [
+              710,
+              583
+            ]
+          ],
+          "kind": "ground",
+          "arrow": true,
+          "label": null
+        },
+        {
+          "points": [
+            [
+              1880,
+              1418
+            ],
+            [
+              1880,
+              1545
+            ]
+          ],
+          "kind": "result",
+          "arrow": true,
+          "label": null
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Task-system power and interfaces, based on the reviewed task-process description and Tasks_Final_Purchase_List.docx.\nOne installed 3S 2200 mAh LiPo task battery (24.42 Wh nominal), separate from drive battery.\nMain and four input-branch fuses: 7.5 A, 5 A, 3 A, 1 A, 1 A, all provisional pending measured load/inrush and wiring checks.\nKemo M148A switches the negative return. Its LOAD- terminal is G_LOAD; BATTERY- is raw task battery negative. Its positive reference/common positive terminals connect as the manufacturer specifies to the switched positive supply. G_LOAD must not be bypassed through chassis, drive wiring, USB shields or externally connected equipment.\nPer-cell alarm connects only to the battery balance connector and provides audible warning. No automatic Pi shutdown signal is assumed. Guard cutoff is pack-level backup, not individual-cell protection or orderly shutdown. Save promptly, prove endurance through PER, shut the Pi down in software before removing supply.\nEP-0225 uses DC input only; confirm 5 A USB-PD negotiation and the combined 1.6 A USB/fan limit where applicable. The RTC battery retains time and is not Pi operating power.\nHobbywing UBEC set to 5 V feeds MG996R and SN74AHCT125. DFR0379 converters independently supply TF03 and FS90 at 5.2 V. Servo positives do not join through the PCA9685 V+ bus.\nPCA9685 uses Pi 3.3 V VCC and I2C pullups. A common servo frequency serves both channels. AHCT125 buffer powered at 5 V; define enable/unused inputs and fit bypass capacitor. FS90 accepts 3.3 V control; verify actual delivered servo. FS90 is positional, not FS90R.\nTF03 is the UART/CAN SEN0328 variant with revision-matched wiring, 3.3 V UART and 115200 8N1. Adapter TX to sensor RX, RX to sensor TX, ground to G_LOAD, VCC left unconnected. Use firmware-specific frame validation, not a different sensor's error thresholds.\nRepeated Pi/PCA names in interface rows represent the same installed devices, not additional units.\nSources: https://wiki-md.52pi.com/docs/EP-0225 ; https://www.kemo-electronic.de/en/Car/Modules/M148A-Battery-guard-12-V-DC.php ; https://wiki.dfrobot.com/sen0328/ ; https://wiki.dfrobot.com/sen0328/docs/21565 ; https://www.ti.com/product/SN74AHCT125 ; https://www.pololu.com/product/2818 ; https://www.raspberrypi.com/documentation/computers/raspberry-pi.html\n",
+    "Autonomous task execution; hardware and separate task-power rails are on page 1 of this same design.\nAfter manual positioning/alignment, all task operations execute onboard without further pilot aiming, filtering, triggering or distance entry. Radio reception continues independently while movement, autofocus, capture, ranging and storage run.\nLive path: NASA 144-148 MHz receive-only signal -> RTL-SDR Blog V3 -> rtl_fm FM audio -> Dire Wolf 1200-baud AX.25/APRS decoder -> NASA-format parser and ordered command queue -> Raspberry Pi task controller.\nBranch fanout means one matching action per received command, not a fixed order AAA/B/C/E/F/G/D/H/ZZZ. Thirty seconds describes NASA broadcast timing, not a timer that creates onboard commands. Packet framing, transmitter identity, start-state behavior and handling of repeated transmissions follow NASA's published format; do not globally deduplicate commands by letter.\nAAA begins sequence; B/C move commanded field of view 30 degrees right/left; E/F/G replace active filter with red/blue/unfiltered; D acquires a fresh timestamped image after motion and autofocus settle; H ranges the target associated with the commanded view; ZZZ closes the sequence and leaves results available.\nThe controller retains commanded bearing, filter and sequence state. No assumed AAA reset of bearing/filter. B/C cumulative travel must fit the actual delivered MG996R Robot 180 positional servo and cable travel; NASA maximum travel is still to be confirmed.\nD: avoid queued pre-command frames. Map capture metadata to the checked Pi calendar clock; RTC backup does not establish correct time by itself. Apply the selected filter onboard and save the photograph with capture date/time. Processing is completed before PER.\nH: use the unfiltered camera view to validate the intended target, compensate camera/LiDAR parallax through calibration, aim and wait for settling. Read only fresh TF03 frames, validate checksum and firmware-specific status/error values, and reject stale/invalid/background measurements. CP2102 link is 3.3 V TTL, 115200 8N1, with adapter VCC disconnected. Centimetres divided by 30.48 gives feet. Raw sensor-to-surface range is not automatically horizontal distance from the ground start mark. NASA's RC measurement reference/tolerance must be confirmed before the final correction is accepted; HP's 3-foot allowance must not be assumed. Retry the same target within a defined limit when acquisition or reading validation fails. Preserve the active filter; restore commanded view after temporary H aiming on success or failure. The retry is recovery, not a validated alternate range sensor.\nEvery received command and result updates the local run record. Nonterminal actions return to the queue; ZZZ closes the run for the onboard touchscreen gallery and distance log. Pilots may show the ready results at PER without pit return or subsequent processing. The audible per-cell alarm does not automatically tell the Pi to shut down.\nReference targets: 4-by-4-foot white boards, filled red circle diameter12in; blue square side12in; green equilateral triangle height12in, not side12in. Shapes at least1ft above ground; targets no farther than50ft from startingpoint.\nSources: NASA2027HERC Handbook printed pages40-42, https://www.nasa.gov/wp-content/uploads/2026/08/2027-herc-handbook-layout-aug6-508-1.pdf ; https://github.com/wb2osz/direwolf ; https://datasheets.raspberrypi.com/camera/picamera2-manual.pdf ; https://wiki.dfrobot.com/sen0328/docs/21565\n"
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "team": "NASA HERC 2027 TEAM BANGLADESH",
+  "rover_parts": 1062,
+  "rover_bounds_m": [
+    0.6550775766372681,
+    0.6300000548362732,
+    0.4320000410079956
+  ],
+  "start_diameter_m": 1.8288,
+  "board_size_m": [
+    1.2192,
+    1.2192
+  ],
+  "shape_midheight_m": 1.0,
+  "shape_lower_edge_m": 0.8476,
+  "triangle_height_m": 0.3048,
+  "triangle_side_m": 0.3519527240979959,
+  "targets": [
+    {
+      "id": "01",
+      "title": "RED CIRCLE",
+      "feet": 20.0,
+      "meters": 6.096,
+      "bearing_deg": -30.0,
+      "center": [
+        5.279291152954102,
+        -3.0480000972747803,
+        1.0
+      ],
+      "filter": "RED",
+      "capture_elapsed_s": 90,
+      "range_elapsed_s": 120,
+      "sensor_origin_m": [
+        -0.03079681098461151,
+        0.0016147289425134659,
+        0.4020000100135803
+      ],
+      "sensor_slant_m": 6.15262477414583,
+      "sensor_slant_ft": 20.185776818063747
+    },
+    {
+      "id": "02",
+      "title": "BLUE SQUARE",
+      "feet": 35.0,
+      "meters": 10.668000000000001,
+      "bearing_deg": 0.0,
+      "center": [
+        10.668000221252441,
+        0.0,
+        1.0
+      ],
+      "filter": "BLUE",
+      "capture_elapsed_s": 210,
+      "range_elapsed_s": 240,
+      "sensor_origin_m": [
+        -0.039000004529953,
+        0.028999999165534973,
+        0.4020000100135803
+      ],
+      "sensor_slant_m": 10.723725649171218,
+      "sensor_slant_ft": 35.18282693297643
+    },
+    {
+      "id": "03",
+      "title": "GREEN TRIANGLE",
+      "feet": 48.0,
+      "meters": 14.630400000000002,
+      "bearing_deg": 30.0,
+      "center": [
+        12.670297622680664,
+        7.315199851989746,
+        1.0
+      ],
+      "filter": "NO FILTER",
+      "capture_elapsed_s": 330,
+      "range_elapsed_s": 360,
+      "sensor_origin_m": [
+        -0.05979681760072708,
+        0.0486147403717041,
+        0.4020000100135803
+      ],
+      "sensor_slant_m": 14.670248052114399,
+      "sensor_slant_ft": 48.13073507911548
+    }
+  ],
+  "example_layout": true,
+  "command_spacing_s": 30,
+  "playback_speed": 30,
+  "commands": [
+    {
+      "command": "AAA",
+      "label": "BEGIN",
+      "elapsed_s": 0,
+      "frame": 1
+    },
+    {
+      "command": "B",
+      "label": "PAN 30 DEG RIGHT",
+      "elapsed_s": 30,
+      "frame": 31
+    },
+    {
+      "command": "E",
+      "label": "RED FILTER",
+      "elapsed_s": 60,
+      "frame": 61
+    },
+    {
+      "command": "D",
+      "label": "CAPTURE RED CIRCLE",
+      "elapsed_s": 90,
+      "frame": 91
+    },
+    {
+      "command": "H",
+      "label": "RANGE TO RED TARGET",
+      "elapsed_s": 120,
+      "frame": 121
+    },
+    {
+      "command": "C",
+      "label": "PAN 30 DEG LEFT",
+      "elapsed_s": 150,
+      "frame": 151
+    },
+    {
+      "command": "F",
+      "label": "BLUE FILTER",
+      "elapsed_s": 180,
+      "frame": 181
+    },
+    {
+      "command": "D",
+      "label": "CAPTURE BLUE SQUARE",
+      "elapsed_s": 210,
+      "frame": 211
+    },
+    {
+      "command": "H",
+      "label": "RANGE TO BLUE TARGET",
+      "elapsed_s": 240,
+      "frame": 241
+    },
+    {
+      "command": "C",
+      "label": "PAN 30 DEG LEFT",
+      "elapsed_s": 270,
+      "frame": 271
+    },
+    {
+      "command": "G",
+      "label": "NO FILTER",
+      "elapsed_s": 300,
+      "frame": 301
+    },
+    {
+      "command": "D",
+      "label": "CAPTURE GREEN TRIANGLE",
+      "elapsed_s": 330,
+      "frame": 331
+    },
+    {
+      "command": "H",
+      "label": "RANGE TO GREEN TARGET",
+      "elapsed_s": 360,
+      "frame": 361
+    },
+    {
+      "command": "ZZZ",
+      "label": "END",
+      "elapsed_s": 390,
+      "frame": 391
+    }
+  ]
+}

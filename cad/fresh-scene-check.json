@@ -1,0 +1,101 @@
+{
+  "record_type": "CAD_GEOMETRY_CHECK",
+  "timestamp_utc": "2026-09-23T04:41:44.418139+00:00",
+  "physical_test": false,
+  "blender_version": "4.3.2",
+  "file_name": "NASA-HERC-2027-Team-Bangladesh-Tasks.blend",
+  "file_sha256": "6e30ef6f8a820c9c2da550e68e58de70c8d8a46b82c3c782273595e1b5666381",
+  "checks": [
+    {
+      "name": "task overview scene exists",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "separate rover object count",
+      "passed": true,
+      "actual": 1062
+    },
+    {
+      "name": "recorded concept envelope",
+      "passed": true,
+      "actual": [
+        0.6550775468349457,
+        0.6300000548362732,
+        0.4320000330917537
+      ]
+    },
+    {
+      "name": "board 01 size",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "example slant 01",
+      "passed": true,
+      "actual": 20.18577605809794
+    },
+    {
+      "name": "example start range 01",
+      "passed": true,
+      "actual": 20.000000987762732
+    },
+    {
+      "name": "board 02 size",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "example slant 02",
+      "passed": true,
+      "actual": 35.182828007473915
+    },
+    {
+      "name": "example start range 02",
+      "passed": true,
+      "actual": 35.000000725893834
+    },
+    {
+      "name": "board 03 size",
+      "passed": true,
+      "actual": null
+    },
+    {
+      "name": "example slant 03",
+      "passed": true,
+      "actual": 48.13073392964776
+    },
+    {
+      "name": "example start range 03",
+      "passed": true,
+      "actual": 47.999998493260854
+    },
+    {
+      "name": "triangle vertical height",
+      "passed": true,
+      "actual": 0.30480003356933594
+    },
+    {
+      "name": "triangle lower edge above 1 ft",
+      "passed": true,
+      "actual": 0.847599983215332
+    },
+    {
+      "name": "three packed simulated captures",
+      "passed": true,
+      "actual": 3
+    },
+    {
+      "name": "eight scenes",
+      "passed": true,
+      "actual": 8
+    },
+    {
+      "name": "example command spacing",
+      "passed": true,
+      "actual": null
+    }
+  ],
+  "status": "PASS",
+  "scope": "Concept scene object counts, bounds and illustration geometry only. No radio, camera, LiDAR or physical rover test was performed."
+}
