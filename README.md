@@ -4,7 +4,7 @@
 
 **A private engineering workspace for our NASA Human Exploration Rover Challenge project.**
 
-[Project guide](docs/project-guide.md) · [Design baseline](docs/design-baseline.md) · [Rover figures](cad/figures/README.md) · [Calculations](calculations/README.md) · [Test plan](testing/README.md) · [Open items](docs/open-items.md)
+[Research paper](manuscript/NASA_HERC_Research_Overleaf.pdf) · [Project guide](docs/project-guide.md) · [Design baseline](docs/design-baseline.md) · [Rover figures](cad/figures/README.md) · [Calculations](calculations/README.md) · [Test plan](testing/README.md) · [Open items](docs/open-items.md)
 
 <a href="cad/figures/rover-oblique.jpg"><img src="cad/figures/rover-oblique.jpg" width="1000" alt="Three-quarter design view of the rover with its camera mast, antenna, four wheels and suspension"></a>
 
@@ -16,7 +16,7 @@
 
 We are developing a four-wheel rover for the **remote-controlled division of NASA HERC 2027**. The plan combines pilot-controlled mobility with an onboard task system that receives live radio commands, aims the camera, selects an image filter, captures timestamped images, measures target distance, and presents saved results for review.
 
-This repository brings together the mechanical design, electrical architecture, calculations, purchasing references, task illustrations and the evidence needed to test the eventual build. Start with the [complete project guide](docs/project-guide.md) for a connected explanation of every subsystem.
+This repository brings together the mechanical design, electrical architecture, calculations, purchasing references, task illustrations and the evidence needed to test the eventual build. The supplied [research paper (PDF)](manuscript/NASA_HERC_Research_Overleaf.pdf) is included in full. Start with the [complete project guide](docs/project-guide.md) for a connected explanation of every subsystem.
 
 | Included and checked | Current status |
 |---|---|
@@ -172,6 +172,7 @@ These are internal planning dates, not completed tests or independently confirme
 
 | Location | What to read or use |
 |---|---|
+| `manuscript/` | Supplied NASA HERC research paper (PDF) |
 | `docs/project-guide.md` | A complete walkthrough of the project and its data flow |
 | `docs/` | Baseline, open decisions, schedule, sources and verification records |
 | `docs/source-documents/` | Original technical and purchasing Word snapshots |

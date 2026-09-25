@@ -5,8 +5,8 @@
   "files": [
     {
       "path": ".gitattributes",
-      "bytes": 190,
-      "sha256": "b955838841e15014aa77dd9930f151f727595b93664649b9a3d371db0e26e203",
+      "bytes": 192,
+      "sha256": "b9b816a0b168ab4801acbe41eeebf1fcb4e1c8de7ab54942fbd8bfbd63184dc6",
       "hash_mode": "text-lf"
     },
     {
@@ -382,9 +382,15 @@
       "hash_mode": "text-lf"
     },
     {
+      "path": "manuscript/NASA_HERC_Research_Overleaf.pdf",
+      "bytes": 16249149,
+      "sha256": "f8277f5821931a3c95895b5ff7aa5b3bcdbaa185087aef32fbdd6a3c65d02f69",
+      "hash_mode": "binary"
+    },
+    {
       "path": "README.md",
-      "bytes": 14305,
-      "sha256": "1b97c6097d2c9a500f7d795bf8104033a6859a4d9e2a73b1c581f3fb2378be21",
+      "bytes": 14530,
+      "sha256": "cb5e3b056ed318f8c489b343d5895adf77f0600b01af9da025bcbccdd85ef398",
       "hash_mode": "text-lf"
     },
     {
