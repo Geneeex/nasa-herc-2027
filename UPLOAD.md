@@ -1,11 +1,11 @@
 # Maintaining the private repository
 
-This support package is maintained in **[SABIKGIT/nasa-herc-2027](https://github.com/SABIKGIT/nasa-herc-2027)**. Repository visibility is **private**, as selected by the owner. Only authorized collaborators can read it. Do not change visibility or enable public Pages as part of an ordinary update.
+This support package is maintained in **[Geneeex/nasa-herc-2027](https://github.com/Geneeex/nasa-herc-2027)**. Repository visibility is **private**, as selected by the owner. Only authorized collaborators can read it. Do not change visibility or enable public Pages as part of an ordinary update.
 
 ## Update the source and evidence
 
 ```bash
-git clone https://github.com/SABIKGIT/nasa-herc-2027.git
+git clone https://github.com/Geneeex/nasa-herc-2027.git
 cd nasa-herc-2027
 git switch -c design-update
 ```
@@ -23,7 +23,7 @@ git commit -m "Update rover design and verification records"
 git push -u origin design-update
 ```
 
-Open a pull request to `main` and check [GitHub Actions](https://github.com/SABIKGIT/nasa-herc-2027/actions/workflows/checks.yml). The workflow validates software arithmetic and package integrity; it does not validate rover hardware. Python 3.12 matches the hosted environment.
+Open a pull request to `main` and check [GitHub Actions](https://github.com/Geneeex/nasa-herc-2027/actions/workflows/checks.yml). The workflow validates software arithmetic and package integrity; it does not validate rover hardware. Python 3.12 matches the hosted environment.
 
 The manifest normalizes text line endings, including the SVG README banner. Its source byte counts describe the captured files; normalized hashes provide the cross-platform integrity comparison. Generated reports should be reviewed before refreshing checksums.
 

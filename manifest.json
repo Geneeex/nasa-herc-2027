@@ -365,8 +365,8 @@
     },
     {
       "path": "docs/verification-record.md",
-      "bytes": 2000,
-      "sha256": "d2230c426774ec5ceb62bec70e98b418363a4d2ac7e0ba4d22b14aa9e9bbbe76",
+      "bytes": 1999,
+      "sha256": "1924ceb9ee92a250d9e33c10a742b5c836c4246aed4b85bda7e9e6524ecfe8db",
       "hash_mode": "text-lf"
     },
     {
@@ -389,8 +389,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 14530,
-      "sha256": "cb5e3b056ed318f8c489b343d5895adf77f0600b01af9da025bcbccdd85ef398",
+      "bytes": 14528,
+      "sha256": "5f91eabb747775d15563f774b0442173eb3bbc68ce0910bb8ec43d469eedeadc",
       "hash_mode": "text-lf"
     },
     {
@@ -545,8 +545,8 @@
     },
     {
       "path": "UPLOAD.md",
-      "bytes": 2710,
-      "sha256": "73657a4e83cecf1876f3bb8b98ce1764293cecc19a4beb6cd51fe5aa3ba2ef0b",
+      "bytes": 2706,
+      "sha256": "01f62f3be97cb8e6709e8d3a5f2094fb684ab3c4c30bdf9c7aa33f9750b4d39c",
       "hash_mode": "text-lf"
     }
   ]
