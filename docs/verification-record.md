@@ -9,7 +9,7 @@ The supplied archive contains the preparation checks below. Fresh repository pre
 | Diagram layout | Visually reviewed | Three exported PNG pages were checked for legible labels, complete boxes and arrow routing. These are architecture diagrams. |
 | Package structure | Checked before delivery | The verifier checks JSON, CSV columns, local Markdown links, file sizes and manifest hashes. Run `python tools/verify_package.py` to repeat it. |
 | Rover hardware | Not run | The [hardware matrix](../testing/verification-matrix.csv) remains `NOT_RUN`. The measurement forms are blank. |
-| GitHub workflow | Current status recorded on GitHub | [Private Actions page](https://github.com/SABIKGIT/nasa-herc-2027/actions/workflows/checks.yml); local and historical reports are separate from hosted results. |
+| GitHub workflow | Current status recorded on GitHub | [Private Actions page](https://github.com/Geneeex/nasa-herc-2027/actions/workflows/checks.yml); local and historical reports are separate from hosted results. |
 
 We have not validated mechanical strength, actual vehicle speed, stopping distance, radio reception, sensor accuracy or loaded battery endurance. We also have not verified the completed rover's mass or antenna-inclusive dimensions. Those checks require the built rover and recorded measurements.
 

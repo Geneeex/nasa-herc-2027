@@ -112,7 +112,7 @@ The **421 mm height excludes the antenna**. The wheel drawing's **13.5 mm** anno
 Use **Python 3.12** to match the GitHub workflow. The calculations and package checks need only the standard library.
 
 ```bash
-git clone https://github.com/SABIKGIT/nasa-herc-2027.git
+git clone https://github.com/Geneeex/nasa-herc-2027.git
 cd nasa-herc-2027
 python -m unittest discover -s tests -v
 python calculations/calculate.py
@@ -123,7 +123,7 @@ Access requires an account permitted to read this **private repository**. The ca
 
 Optional diagram rebuilding uses [requirements-diagrams.txt](requirements-diagrams.txt) and the two `tools/build_*_diagram.py` scripts. See [diagram instructions](diagrams/README.md) for fonts and outputs. A fresh Blender check needs the separately supplied native task model; it is not part of the normal Python workflow.
 
-The [GitHub Actions workflow](https://github.com/SABIKGIT/nasa-herc-2027/actions/workflows/checks.yml) runs the calculation tests, regenerates their reports and checks file integrity and links. See [verification records](docs/verification-record.md) for the scope of recorded evidence.
+The [GitHub Actions workflow](https://github.com/Geneeex/nasa-herc-2027/actions/workflows/checks.yml) runs the calculation tests, regenerates their reports and checks file integrity and links. See [verification records](docs/verification-record.md) for the scope of recorded evidence.
 
 ## Task-scene previews
 
